@@ -47,6 +47,11 @@ else:
     json.dump(items, open(cache, "w", encoding="utf-8"), ensure_ascii=False)
 
 released = {r["identifier"]: r for r in csv.DictReader(open(os.path.join(REL, "languages.csv"), encoding="utf-8"))}
+scan_index = os.path.join(REL, "scanned_texts", "index.csv")   # written by scans.py
+scanned = {r["identifier"] for r in csv.DictReader(open(scan_index, encoding="utf-8"))} if os.path.exists(scan_index) else set()
+check_file = os.path.join(HERE, "PD_CHECK_pre1931.csv")
+check = {r["identifier"]: r["overall"].strip().upper() for r in csv.DictReader(open(check_file, encoding="utf-8"))} \
+    if os.path.exists(check_file) else {}
 
 
 def meta(ident):
@@ -114,8 +119,15 @@ for ident, d in sorted(items.items()):
         status, reason = "not included", "no licence tag"
     elif lc == "restricted":
         status, reason = "not included", f"licence not open enough for this release ({short(lic)})"
+    elif ident in scanned:
+        status, reason = "included", "OCR text in release/scanned_texts (copyright check passed: US, country of publication, NL)"
     elif kind != "Swadesh list (typed)":
-        status, reason = "not included", "scanned pages, not a typed list" + ("; public domain mark, could be OCRed" if lc == "open" else "")
+        v = check.get(ident)
+        status = "not included"
+        reason = "scanned pages; public domain mark, but " + (
+            "the copyright check found it still protected" if v == "NOT OPEN" else
+            "the copyright check could not confirm the dates" if v == "UNVERIFIED" else
+            "no publication date before 1931 to check") if lc == "open" else "scanned pages, not a typed list"
     else:
         status, reason = "not included", "open licence but not yet converted"
     rows.append({"identifier": ident, "lang_code": (ident.split("_")[1] if ident.count("_") >= 2 else ""),

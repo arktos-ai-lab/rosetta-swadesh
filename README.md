@@ -18,12 +18,13 @@ for browsing by concept or by language. Intended use includes seed vocabulary fo
 | `release/inventory.csv` | every Rosetta Swadesh or vocabulary item on the Internet Archive (1,338), with kind, licence, and whether it is included and why not; also the **Sources** tab of the browsing page |
 | `release/concepts.csv` | the concept labels and the number of lists that have each |
 | `release/swadesh.sqlite` | tables `entries`, `languages`, `concepts` |
+| `release/scanned_texts/` | OCR text of 10 scanned vocabularies and grammars (1849-1909) that passed a copyright check; `index.csv` gives year, author's death year and country |
 | `release/BUILD_REPORT.md` | counts, skipped lines, left-out items |
 | `docs/index.html` | the browsing page (served by GitHub Pages) |
-| `scripts/` | `harvest.py` (download the collection), `community.py` (add the openly licensed volunteer uploads), `build.py` (parse and write `release/`), `inventory.py` (write `release/inventory.csv`), `make_viewer.py` (write `docs/index.html`) |
+| `scripts/` | `harvest.py` (download the collection), `community.py` (add the openly licensed volunteer uploads), `build.py` (parse and write `release/`), `inventory.py` (write `release/inventory.csv`), `scans.py` (OCR texts), `make_viewer.py` (write `docs/index.html`) |
 
 Rebuild from scratch: `python scripts/harvest.py`, `python scripts/community.py`, `python scripts/build.py`,
-`python scripts/inventory.py`, `python scripts/make_viewer.py` (Python 3.9 or newer, standard library only;
+`python scripts/inventory.py`, `python scripts/scans.py`, `python scripts/inventory.py` again, `python scripts/make_viewer.py` (Python 3.9 or newer, standard library only;
 `community.py` needs `antiword` for three Word files; downloads go to `bulk/`).
 
 ## Source and processing
@@ -42,9 +43,15 @@ Rebuild from scratch: `python scripts/harvest.py`, `python scripts/community.py`
   Slovenian (CC0) and three Ormuri lists (CC0; Ormuri is an endangered Iranian language of Pakistan and
   Afghanistan; list 3 gives each word in IPA and in Arabic script, kept as entry 1 and 2).
 - `release/inventory.csv` accounts for all 1,338 Rosetta Swadesh and vocabulary items found on the Internet
-  Archive: 1,232 included; 106 not included because they have no licence tag (68), are audio recordings (14),
-  carry CC BY-SA (4), or are scanned book pages rather than typed lists (20 with a public domain mark, which
-  could be OCRed later).
+  Archive: 1,242 included (1,232 lists and 10 OCR texts); 96 not included because they have no licence tag
+  (68), are audio recordings (14), carry CC BY-SA (4), or are scanned pages whose public domain mark the
+  copyright check could not confirm (10).
+- Scanned vocabularies: 20 scanned items carry an Internet Archive public domain mark. We checked each one:
+  publication year from other catalogues (WorldCat, HathiTrust, national libraries), authors' death years
+  (Wikidata, VIAF), and public domain in the US, in the country of publication and in the Netherlands. The 10
+  that passed are in `release/scanned_texts/` with the Internet Archive's OCR text (ABBYY, with OCR errors, as
+  delivered): Abenaki, Bontoc Igorot, Beothuk (3 articles), Chinook, Herschel Island trade jargon, Ilocano
+  (2 dictionaries) and Yakut. One is still protected (author died 1958), the rest could not be dated.
 
 ## Licence
 

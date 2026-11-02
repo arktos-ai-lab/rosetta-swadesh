@@ -1,0 +1,3213 @@
+THE VOCABULARY OF THE CHINOOK LANGUAGE^ 
+
+By FRANZ BOAS 
+
+The following description of the vocabulary of the Chinook 
+language is based on material collected by me near the mouth of 
+Columbia river.^ A discussion of the Chinook verb, also based on 
+this material, has been published by Dr John R. Swanton.^ To this 
+paper the reader is referred. The laborious compilations and com- 
+parisons required for the following notes were made partly by my- 
+self and partly by Dr Swanton, Mr William Jones, and Mr H. H. 
+St. Clair 2d, to all of whom I wish to express my thanks for their 
+assistance. 
+
+The stems of the Chinook language may be divided into two 
+great classes, the one that appears generally independently, without 
+affixes, the other which occurs only with pronominal prefixes. The 
+first class comprises attribute complements, adjectives, adverbs, con- 
+junctions, and interjections ; the second includes nouns, pronouns, 
+and verbs. 
+
+I. Stems Used Without Pronominal Prefixes 
+I. Attribute Complements. — It is one of the most striking 
+characteristics of the Chinook language that a few verbs of very 
+indefinite meaning which require subjective and objective attribute 
+complements are applied with great frequency. By far the greater 
+number of these, and the most characteristic ones, are words that 
+do not require pronominal prefixes. Many are clearly of onomato- 
+poetic origin. In some cases it appears doubtful whether the words 
+belong to the regular vocabulary of the language or whether they 
+are individual productions. This is true particularly when the words 
+do not form part of the sentence, but appear rather as independent 
+
+
+
+1 Published under the auspices of the New York Academy of Sciences. 
+
+2 F. Boas, Chinook TextSy Bulletin 20, Bureau of American Ethnology. F. Boas, 
+Kathlamet Texts, Bulletin 26, Bureau of American Ethnology. 
+
+'Morphology of the Chinook Verb, American Anthropologist, N. s., ii, pp. 199-237. 
+
+118 
+
+
+
+BOAS] VOCABULARY OF THE CHINOOK LANGUAGE I I9 
+
+exclamations. Examples of this kind are the following : oxuiwaJyul 
+kumm, kumm, kumniy kumm, they danced, kumm, kumm, kumm, 
+kumm, 167.5.^ Here kumm indicates the noise of the feet of the 
+dancers. Hbmm, iguahiat iniLa^kux, homm, I smell salmon, 
+67.3. A'lta, pEmm, tEmotsga* nuks go ia!yacqL^ Now pemm, flies 
+were about his mouth, 72.22. Yi^x^ pEmm indicates the noise made 
+by flies. Tex, tcx, tcx, tcx, go Lkameld'lEq, there was noise of foot- 
+steps (tcx) on the sand, 75.3. 
+
+In a number of cases onomatopoetic terms which undoubtedly 
+belong to the regular vocabulary are used in the same manner : 
+Tcxupy tcxup, tcxupy tcxup aLE^xax La^k/^wax, the torch flickered 
+(literally: vcididQ tcxup), 50.24; ^/^^, L/dq, L/dq, La* xa 7ie* xax 
+iske'epxoa, out, out, out, out came a rabbit, 1 1 3.6. These cases 
+make it plausible that most terms of this kind belong to the regular 
+vocabulary. The frequent use of such onomatopoetic words and 
+the occurrence of new words of the same kind, such as ti'ntin clock, 
+watch, time ; tsVktsik wagon, suggest that in Chinook the power 
+of forming new words by imitative sounds has been quite vigorous 
+until recent times. 
+
+Examples of onomatopoetic words of this class are he* he to 
+laugh, ho* ho to cough, pd to blow, tjEq to slap, t/ak to break a 
+piece out, td'to to shake, cix to rattle, eau low voice, tsEx to break,, 
+tcxup to flicker, tcxoap to gnaw, k;ut to tear off, xwi to blow. Up 
+to boil, Ljdq to crackle, LjlEp to go under water. It is difficult to 
+say where,, in this class of words, the purely onomatopoetic charac- 
+ter ceases and where a more indirect representation of the verbal 
+idea by sound begins. I think a distinct auditory image of the idea 
+expressed is found in the following words : /2^'z// proud, wax to pour 
+out, /^z full, tEmE^n clear, tE/t tired, tc/pdk loud, guUgut exhausted, 
+gE^cgEC to drive, ku'lkul light (of weight), kia silent, q;am lazy, 
+qiuL fast, lo^o round, leU to disappear, Lax to appear, Lxoap to dig. 
+
+Most stems of this class occur both single and doubled, some- 
+times they are even repeated three or four times. Repetition indicates 
+frequency of occurrence of the verbal idea ; that is to say, it is dis- 
+
+^ Figures appended to the examples given refer to the corresponding page and line in 
+the Chinook Texts ; thus, 167.5 naeans that the preceding example will be found in line 
+5» page 167. An explanation of the alphabet used will be found in the Bulletin of the 
+Bureau of American Ethnology and in Dr Swanton*s paper above cited, pp. 200-202. 
+
+
+
+I20 AMERICAN ANTHROPOLOGIST [n. s., 6, 1904 
+
+tributive, referring to each single occurrence of the idea.^ We have 
+wax to pour out (blood) 68.1, wdxwax to pour out (roots) 43.2 ; 
+po to blow once 66.25, po^po to blow repeatedly 129.20 ; tEll^xx^di, 
+tEmtEll to be tired in all parts of the body ; kjut to tear off 89.25, 
+kiu^tkjut to tear to pieces 249.4. 
+
+A few stems, however, occur in duplicated form only, probably 
+on account of the character of the idea expressed which always im- 
+plies repetition. Such are he^he to laugh, ho^ho to cough, to* to to 
+shake, gu'tgut exhausted, kuHkul light (of weight), lolo round. 
+
+Others do not occur in duplicated form, but take the distributive 
+ending -ma. These are pdL full 39.1, distributive pa! Lma 229.24 ; 
+wuk i straight, real 24.12, distributive wuk/ma 107.20. 
+
+Still others do not seem to undergo any change for the dis- 
+tributive : tErriE'n clean, empty ; td'mEnua to give up 61.18 ; tq;ex 
+to wish 129.27 ; stag/ war 272.5 ; k'/e to disappear, nothing ; k/7vac 
+afraid 90.5 ; L/ap to find 140. i, 138.15. On the whole it would 
+seem that those least onomatopoetic in character lack the doubled 
+distributive. 
+
+In a few cases the doubled form has acquired a distinctive sig- 
+nificance : kjwan hopeful 134.8, k/wa*nk/wan glad 38.20; Idx 
+sideways 267.3, /^'^/^-^ to deceive 65.19, to rock 129.2. 
+
+It is probable that all these words are capable of forming sub- 
+stantives or verbs containing pronominal elements. I have found 
+the following examples : 
+
+i-yuL/l pride 74. 1 1 , from yuL/l proud. 
+
+tk/e'waxEma torches 27.22, from wax light, to shine. 
+
+ik/ewax flower 165.27, from wax to bloom. 
+
+ewaxc^mi copper, from wax light, to shine. 
+
+ikiwac^c^mi fear 213. 10, from k/wac afraid. 
+
+igtLq/up cnX, /^6.2, hom Lq/ up to cvX. 
+
+ige'L/mEnL/niEn syphilis, from L/mEti soft, rotten. 
+
+nats/E'x piece 69.3, from ts/Ex to tear. 
+
+naLxoa'p hole 23.7, from Lxoa'p to dig. 
+
+nald'io something round, from lo^lo round. 
+
+-xa'pEfiic a woman gives herself in from pd'nic to give in payment for 
+
+payment for services of a shaman services of a shaman. 
+
+203.11, 
+
+
+
+iSwanton, loc. cit, p. 233. 
+
+
+
+BOAS] VOCAB ULAR \ OF THE CHINOOK LANG UAGE 121 
+
+'ge'staq/oam to go to war 270.1 , from stag; war. 
+
+L'Xqiam to be lazy, from qiam lazy. 
+
+ne-axaxome to notice 40. 14, from xdx to notice. 
+
+ce'kpElEpt it boils, from lEp to boil. 
+
+'Xa'giLq/up to cut oneself, from Lq/up to cut. 
+
+Nevertheless this series of stems is sharply set off from all others, 
+since the latter never occur without pronominal elements excepting 
+a few vocatives that will be mentioned later. 
+
+The most common verbal stem which is used in connection with 
+these attributes is -x to be, to become, to do, to make, -o {-l ?) the gen- 
+eral verb for motion is sometimes used with stems signifying motion. 
+It seems difficult to classify these words except those that clearly 
+express noises. Among a total of 126 words of this class 44 
+express activities or processes accompanied by noises ; 16 are decid- 
+edly imitative ; 22 designate states of the mind or body which may 
+be expressed by imitative sounds, such as cold, tired, fear ; 7 are 
+terms of color ; 45 express miscellaneous concepts, but some of 
+these may also be considered as imitative. It seems likely that in 
+a language in which onomatopoetic terms are numerous, the fre- 
+quent use of the association between sound and concept will in its 
+turn increase the readiness with which other similar associations are 
+established, so that to the mind of the Chinook Indian words may 
+be sound pictures which to our unaccustomed ear have no such 
+value. I have found that, as my studies of this language progressed, 
+the feeling for the sound value of words like wax to pour, k'/e 
+nothing, k/omm silence, Ldz^Sm.pa^^pa^ to divide, increased steadily. 
+For this reason I believe that many words of the miscellaneous 
+class conveyed sound associations to the mind of the Chinook 
+Indian. 
+
+It will be noticed that verbs of motion and transitive verbs ex- 
+cept such as are accompanied by decided noises are almost absent 
+from the list of these words. 
+
+I have found very few cases only in which these words are clearly 
+used as adjectives : aqLoUgam ptcix le^ LuwElkLuwElk green mud 
+was taken 30.2 1, l&lo ikta something round 127.5. This is possibly 
+due to the rarity of adjectives except numerals and a few others in 
+the texts. It would seem, however, that in most cases derivatives 
+
+
+
+122 
+
+
+
+AMERICAN ANTHROPOLOGIST 
+
+
+
+[N. s., 6, 1904 
+
+
+
+of these stems are used whenever the substantive or adjective is to 
+be used ; for instance : ma^nix kd^ltac iLa^yuL/l kLo! qewam when a 
+shaman only has pride 203.18. 
+
+In quite a number of cases these words seem to be rather 
+adverbs than attribute complements : ca'ucau naxayi^ llk'^Le she told 
+him in a low voice 40.21, lux nuLd^tax'it it fell down broken 49.2, 
+LkE^pLkEp atcio^cgam it took it in its talons 137.15. If I remember 
+rightly the cadence of the spoken sentence, these words must rather 
+be considered as standing alone, the auxiliary verb -x being omitted. 
+
+
+
+LIST OF ATTRIBUTE COMPLEMENTS 
+
+a. Actions and Processes Accompanied by Noises 
+
+
+
+(wd a noise underwater 217.15) 
+
+uhu' noise of an arrow striking a 
+body 49.3 
+
+{hEmm noise of wind 41.25) 
+
+homm smell 67.2 
+
+(^hd noise of an arrow breaking 49. 4) 
+
+he' he to laugh 12.22 
+
+hd^ho to cough 
+
+pEmm noise of flying 72.22 
+
+po to blow 66.25, pc^po 129.20 
+
+pa, pa, pdi^S'Z 
+
+(dE// noise of bursting 49.19, noise 
+of bear spirit 217.14) 
+
+//E^ to slap 40.25, tE^qtEq 26.8 
+
+Wto to shake 194. i 
+
+tumm noise of fire 45.16, noise of 
+bear spirit 217.13 
+
+iEmm noise of feet 133.17 
+
+t!dk to break a piece out of some- 
+thing 
+
+cix noise of rattles 22.5 
+
+ceU noise of rattles on a blanket 
+61.22 ; ci' /lei// laittling of breath 
+of one choking 150.7 
+
+cd'ca to break, to wreck 198.7 
+
+cdu low voice 1 62 . 1 1 , ca'ucau 40. 2 1 
+
+cxx noise of flying birds 137.14 
+
+
+
+tsjEx {tc/Ex, tc/ux, tsEx) to break 
+a piece of wood, antlers, etc., 
+with hands 60.7; to split wood 
+27.2, sinews 138.19, roots 95.14 
+(not used for splitting planks out 
+of trees); to skin a bird 136.23 ; 
+to bark a tree 164. 16; fs/E'x/s/Ex 
+45.19; nafs/Ex a piece of flint 
+flaked off* 69.3 
+
+tcxupytcxEp to extinguish 51.2, to 
+flicker 50.24, tcxsfptcxEp 28.8 
+
+tcx noise of footsteps on sand 75.3 
+
+tcxoa'p to gnaw, tcxoa* ptcxoap 
+
+175-23 
+
+gumm a noise under water 217. 16 
+
+gom noise of something heavy fall- 
+ing down 27.9 
+
+kumm noise of dancing 167.5 
+
+gE'cgEc to drive 15.5 
+
+k/ut to tear off* 89.25; k/u'tk/ut to 
+clear up (sky) 249.4 
+
+ku'tcxd to sneeze 64.24 
+
+qu// noise of falling objects 67.1, 
+noise of heels striking the ground 
+
+6513 
+q/a'/q/a/ to beat time 
+q/e door creaks 66.14 
+
+
+
+boas] 
+
+
+
+VOCABULARY OF THE CHINOOK LANGUAGE 
+
+
+
+123 
+
+
+
+XX to blow 113.20 
+
+xa!xa to rub 65.9 
+
+xwe to blow nose 1 1 3. 2 1 ; to blow 
+
+on water before drinking 213.13 
+LEk"" to break 165.19, LE'kLEk 
+
+68.16 
+LE'kLEk to burrow 95. 13 
+LEX to split (planks) 27.1, to burst 
+
+204.4, l/e'xl/ex to tear 
+
+145.20 
+le'xlex noise of scratching 153.7 
+Lap noise of shooting 272.20 
+
+
+
+LUX to come out 49.2, 201.1, 
+Lu'XLux to pull out (of ground) 
+138.9 
+
+LkE'pLkEp to grasp in talons 137.15 
+
+Lkjop to squeeze 9.8, Lk/d'pLk/op 
+with eyes run out 29.20 
+
+Lq/op to cut 1 14. 3 
+
+Lxoa'p to dig 23.5, Lxoa'pLxoap 
+
+z/z/ to titter 177.15 
+LiEq to hit, to strike 156.23 
+Lf'dq^ L/dx to crackle 38.1, 185.8 
+L/lEp under water 14.8 
+
+
+
+b. Descriptive Words 
+
+
+
+pdL full 39. 1, pd'Ltna 229.24 
+wax to pour out 68. i, to take across 
+
+river in canoe 23.24, wd'xwax 
+
+43-2 
+wax to light, set afire 28. 2, to bloom 
+
+165.26 
+tEtnE^n empty, clean 
+tE*tE to stop doing something 
+tuwd'x to light, shine 12. i (see 
+
+wax) 
+ku'llkull light of weight 199.9 
+k/am, k/Etn no, none 37.15 
+
+c. Words Expressing 
+
+iu'L// proud 93.16 
+
+/-ff/ quiet 177.24 
+
+pi aid' quietly, safe 198.4 
+
+tEll, tdl tired 62.14, tEflltEll tired 
+all over = rheumatism 
+
+tqiex to like 129.27 
+
+tlayd' well, healthy 165.21 
+
+tsEs cold 41.9 
+
+tsE'xtsEX unwell, feeling uncom- 
+fortable 
+
+tcxap to hesitate 27.15 
+
+
+
+k/omm no noise 
+
+k/d'ya no, none 
+
+k/e no 128.5, nothing 14. i, to dis- 
+appear 128.28 
+
+^/^/ strong, q/E'lq/El\i3xd, 139.8; 
+too difficult 204.12 
+
+lEp to boil 1 73. 1 
+
+Id' id round 186.23 
+
+L/dk spread out 178.7 
+
+L/niEn to break into small pieces, 
+soft 130.4 ; L/mE^nL/mEn 17.9 
+
+
+
+States of Mind and Body 
+
+tc/e'ktc/ek almost choked 151. i 
+
+Idx lonesome 22.3 
+
+gu'tgut exhausted 
+
+k/Ex cloyed 46. 24, k/^xk/Ex grease 
+
+smell 137.7 
+k/d silent 37.9, 129.2 
+^/ze/<35« hopeful 134.8, k/wa'nk/wan 
+
+glad 38.20 
+k/wac afraid 2 1 1 . 1 5 
+k;cd stiff in joints 
+qiam lazy 138.4 
+
+
+
+124 
+
+
+
+AMERICAN ANTHROPOLOGIST 
+
+
+
+[N. s., 6, 1904 
+
+
+
+qiat to love 41.6 
+
+xax to notice, observe 75.17 
+
+LEki, Ldk/ weak 212.21 
+
+
+
+L/o'y a stingy (?) 139. 11 
+L;d to fear 212. 11 
+L/paq to recover 196.22 
+
+
+
+z^'^/ black 25.11 
+^/^V yellow 
+
+cpeq grB-Y (dry?) 109.10 
+tk/op white 124.25 
+
+
+
+wuk/Ema^ 
+
+
+
+td'c to let alone 187.13 
+«^ to take a chance 
+«/«^/ straight 24.12, 
+
+107.20 
+pE'nka afoot 217.8, 107.6 
+pd'nic to give secretly payment to a 
+
+shaman 200.7 
+^^* to divide, /^'*/dJ* 248.4 
+pdx unlucky 264.13 
+
+/^^ foggy 37.4 
+
+pux lukewarm 
+
+pc^xoie to make a mistake 
+
+w^z/ wet 37.5 
+
+mane^x to learn a secret 200.10 
+
+td'niEnua to give up 61.18 
+
+tkE'ltkEl dull 
+
+/^/^ to sit looking on 
+
+ti'd'nuwa to exchange 228.8 
+
+fiEko to keep, to retain 277.14 
+
+stdqi war, attack 272.5 
+
+stux to untie, to unwrap 135.13; 
+
+stu!xstux \\(i,\o 
+(Jctdx 2,xoMvA a point) 
+tsk/Es to stoop 
+tc/pdk sXxoTi^Y 164.9, no- 1 
+^/^^^ to tie 123.19, k/au'k/au 118.6 
+^^57 reaching 48.6, high water 
+0-5 
+
+
+
+d. Color Terms 
+
+ptcix green 30.21 
+Lpilx^A 185.20 
+ts/Emm variegated 
+
+Miscellaneous Words 
+
+quL to hang, to fish with gaff hook 
+27,16, to put on garment 136.23 
+
+q/E'cq/Ec dry 14.19 = thirsty 21. i 
+
+(^q/oa'p near 40.9) 
+
+q/ul\oyf water 198.26 
+
+q/uL fast, q/uL e'cgam hold fast 
+44.15, see quL 
+
+^ij/^7 half full 166.8 
+
+xop streaming 
+
+lax sideways 267.3, afternoon 
+63,18, to miss 13.19 ; Id'xlax to 
+rock 129.2, to deceive 65.19 
+
+lu'xlux slick 
+
+lu'xpapie adultery 
+
+LEX to sit still 
+
+Ldq to step aside 146.14; to turn 
+137.12, 63.4; to cut off, to fall 
+off 154.28, 194.1; to take out 
+65.11; Ld^qLdq zigzag, also plural 
+for other meanings 
+
+Ldx to appear, become visible 23.13, 
+Ld'xLax to emerge 
+
+Lex' to cohabit 228.16, Le'x'Lex- to 
+prepare corpse for burial 253.3 
+
+Ld calm 25.18 
+
+Luwd' freshet 
+
+L/ap to find 261.8 
+
+L/dp fitting 154.8 
+
+
+
+BOAS] VOCABULARY OF THE CHINOOK LANGUAGE I 25 
+
+2. Adverbs. — The dividing line between attribute comple- 
+ments and a number of adverbs cannot be drawn very definitely. I 
+am particularly doubtful how t/aya' * well ' should be classed, and a 
+few others which are placed in parentheses in the preceding list. 
+The word acuwa'tka unsuccessful 96.7 may really be ac-wat-ka 
+and that just ended it.' At least this is suggested by the analogous 
+word kawa'tka * and then it just ends ' 1 17. 16. 
+
+Adverbs are formed from adjectives by the suffix -e^ for instance 
+mbkct two, mb'kcte twice ; iu'Lqat long, iU^Lqte. Besides these, there 
+are a considerable number of adverbs which seem to consist of 
+radicals that do not undergo any changes. A few of these arc 
+probably compounds. Many of them perform the functions of 
+verbal moods, such as are expressed in many American languages 
+by derivatives of the verb. In Chinook a very few modal ideas only 
+are expressed by derivation. There are three tenses, a potential, 
+an inchoative {-tck), a number of frequentatives and usitatives, and 
+a few local terms.^ Accordingly we find that the corresponding 
+adverbs are almost entirely missing. Most adverbs expressing 
+space relations are derived from nouns, but a considerable number 
+of temporal and modal adverbs occur, the latter expressing cer- 
+tainty, compulsion, intention, etc. These cannot be derived from 
+simpler forms. 
+
+ai'aq can * j>Et really 
+
+xa'oxaL cannot ndkct not 
+
+got will na interrogative particle 
+
+q^xtce without reaching the desired Leqs almost 
+
+end qala'tcx'i hardly 
+
+ka'ltas in vain, only a'nqa(Je) already, before 
+
+qa!doxue must a'lta now 
+
+atsuwa! probably a Lqe later on 
+
+Lx may (implying uncertainty) kawa*tka soon 
+
+k;dma perhaps and! sometimes 
+Lc^nas I don't know (expression of nau*i at once 
+
+uncertainty) le, le'le a long time 
+
+poc contrary to fact q;astE'n for the first time 
+
+1 See Swanton, loc. cit., pp. 217 ff. 
+
+•Evidently the original significance of this word is "quickly" ; for instance ai^aq 
+no^ya (if you tell me to go) I go quickly, i. e. I can go. 
+
+
+
+126 
+
+
+
+AMERICAN ANTHROPOLOGIST 
+
+
+
+[N. s., 6, 1904 
+
+
+
+tcax for a while 
+
+wixt again 
+
+kuls'ts once more 
+
+alatewa again in this manner 
+
+gud'nsEtn always 
+
+wax next day (wux'V to-morrow) 
+
+{kawVx' early) 
+qioa!p near 
+
+
+
+tc/pdk quickly 
+Lawa! slowly 
+{ai'aq quickly) 
+txul too much 
+maniq;d' too much 
+t/a'qea just like 
+J'/dJ even 
+
+
+
+A number of exhortative particles form a peculiar group of 
+words. They are applied so regularly and seem to be so weak that 
+I do not quite like to class them with interjections. It would seem 
+that the meanings conveyed by some of these have very nice shades. 
+
+
+
+wuska a somewhat energetic re- 
+quest : now do ; let us make an 
+end of it and — 37.12 
+nixus please, just try to-— 130.3 
+tcux since this is to do (or let us) 
+24.10 
+
+
+
+tayax oh, if he would ! 22.4 
+
+Mntcin be quiet 
+
+tea! well ! introducing a new idea 
+
+{qa't/ocxEm look out !) 
+
+{nau*itka indeed !) 
+
+(/^/^>^//good!) 
+
+
+
+The last three of these hardly belong here. They are deriva- 
+tives ; qa^t/ocxEm is probably derived from t/o well ; nauHtka per- 
+haps from nauH at once ; tgt/o'kti from t/o well and -kta thing. 
+
+3. Interjections. — The line between the last group of words 
+and true interjections is very indefinite. As might be expected the 
+number of interjections in this language which has such strong 
+onomatopoetic tendencies is considerable. 
+
+a, dy o oh ! nd disapproval 145.12 
+
+ad^ surprise 29.13 ndqj contemptuous rejection of an 
+
+e pity for hardships endured 187.19 offer 1 24. 1 1 
+
+
+
+nd pity 116. 15 
+
+dJ«^'pain, regret, sorrow, pity 22.4, 
+
+161. 13 
+ahaha! pain 177.16 
+and'x pity 153.8 
+
+he call 12.2, indeed 38.22, 186.8 
+he a long distance 28.3, 123.13 
+ho, hohcf , oho' surprise at the suc- 
+cess of an action 24.3,25.22,67.14 
+
+
+
+hohW derisive rejection of a remark 
+
+23-25 
+aha' ridicule, disbelieve 166.23 
+ehehiu' derision 45.1 
+Ie derision of weakness 60.14, 
+
+146. 1 
+id' reproach for foolishness 117.9 
+ndxaxax 2Si^^x 186.16 
+tcxd that is nothing ! 47.4 
+
+
+
+BOAS] VOCABULARY OF THE CHINOOK LANGUAGE 12/ 
+
+z^/^^'' disgust 46.26 kuc gooA\ 89.4 (also used by the 
+
+ha^d'm, hac^ now I understand ! Chihelish) 
+
+39.27, 100.23 i^/V oh ! (?) 
+
+As mentioned before, many of the imitative attribute comple- 
+ments may be used as interjections. This may, indeed, be their 
+original function. Such are hEmm noise of wind, kumm noise of 
+dancing. A few differ so much in form and use from the attribute 
+complements that I include them among the interjections : 
+
+ha* IeIeIeIeIeIe noise of flight of an arrow 62.21 
+
+wuHeIeIeIe noise of flight of coaches 77.16 
+
+wa* tsEtsEtsEtsEtsE cry of bluejay 31.2, 157.25 
+
+qa* nawulEwulEwulEwulE cry of gull 88. 2 1 
+
+wo bark of dog 23.9 
+
+wd cry of child 185. 24 
+
+ha cry of a person weeping 11 8. 8 
+
+wdiluu low voice 162.3 
+
+kukuku voice of bluejay after he had become a ghost 166.19 
+
+In this group belong also the burdens of songs, a few of which 
+occur in the texts. 
+
+4. Conjunctions. — A number of invariable words perform the 
+function of conjunctions. The meanings of a few of these are not 
+quite certain. The most important are the following : 
+
+ka and, then, connecting sentences taL/ although I did not expect it, 
+
+26.18 still 74.9 
+
+^>^dJ and, while, connecting sentences Wolel although I did not intend 
+
+25.4 to, still 13.3 
+
+kja and, connecting nouns takE then 135.6 
+
+tcx't a little while passed, then 37.4 a'lta now 135.5 
+
+(often following qia!x if) taua'Ua otherwise 134.8 
+
+tcu or 276.1 manix when 253.14 
+
+/^/^/^ although it is so, still 44.4 qid'x if 127.20 (jqe, qec?) 
+
+5. Adjectives. — Color terms, the plural of small, the numerals 
+from two to nine, and the indefinite numerals are used without 
+pronominal prefixes. The color terms were enumerated among the 
+attribute complements,^ because they are generally used in that 
+
+
+
+1 See page 124. 
+
+
+
+128 AMERICAN ANTHROPOLOGIST [n. s., 6, 1904 
+
+form. gEn'Em small 38.17 is used only for plurals. The cardinal 
+and indefinite numerals of this class are — 
+
+mokct two tE'xEtn six ka'nauwe all 
+
+ion three si'namokct seven kape't enough 
+
+la' kit four ksto'xtkin eight qamx part 
+
+qui'nEm five koa'itst nine w^«/^ few 
+
+/^^* several 
+
+All the cardinal numbers of this group when used as distribu- 
+tives take the suffix -mtga ; when used as adverbs they take the 
+adverbial suflfix -^. The ordinals are formed by the third person 
+pronominal prefix and the possessive form, for instance : e* LuLon its 
+third one (masculine) 217.21, ulo! Lon (feminine) 211.20, and from 
+these again ordinal adverbs e^ LULone the third time 134.23. When 
+counting human beings all these numerals, cardinals as well as indefi- 
+nite, take the prefix a- and the plural suffix -kc, mokct two may 
+also take the dual prefix c-. 
+
+To the groups of indefinite numerals belongs the peculiar form 
+kauEnt each, all, together, which occurs alone only in its distributive 
+form kana'mtgEma 157.23, while generally it appears as a prefix 
+of numerals : kanEmqoa! uEm five together 201.22, LkanEmqoa* tiEmiks 
+176.8. With mokct two it seems to lose its m : skanasmokst both 
+76.14. 
+
+II. Stems Used With Pronominal Prefixes 
+
+I . Nominal stems. — Substantives have always pronominal pre- 
+fixes which determine their gender, l- masculine, o- feminine, l- neuter, 
+c- dual, /- plural.^ Apparently all these prefixes,. except that of the 
+feminine, agree with the corresponding gender of the third person 
+intransitive, but a closer inspection shows that originally a nominal 
+prefix w- must have preceded them. This still occurs in a few 
+nouns, like wi^wuLi interior of house 46. 24 ; but particularly in 
+geographical names : WaW mlEm^ ordinarily oWmlEm rotten wood ; 
+WapLo^ tcin^ ordinarily opLo^tcin salal-berries on stump ; and also in 
+songs: wHxiox iWe 16.17. This prefix is retained in many cases 
+in the upper Chinook dialects. 
+
+The number of nouns derived directly from verbs is remarkably 
+small. While most American languages abound in affixes, by 
+
+^ See Swanton, loc. cit., p. 208. 
+
+
+
+BOAS] VOCABULAR V OF THE CHINOOK LANGUAGE 1 29 
+
+means of which terms denoting the actor, the instrument, result, 
+place, time of action, and many other derived ideas may be expressed, 
+such derivatives are very rare in the Chinook texts. We do not 
+even find any form expressing the instrument, and the actor and 
+the results of an action are expressed by purely participial forms.* 
+Consequently the number of nominal stems is large, for many ideas 
+which in other languages are expressed by words derived from 
+verbal stems, are here expressed by separate stems. 
+
+On the whole the derivation of the numerous polysyllabic 
+nouns in Chinook is obscure, since evidently a considerable number 
+of nominal affixes exist which, however, occur so rarely that their 
+significance cannot be determined. Examples are the derivatives 
+from the stem elx land, country : ile^e country (the x disappears 
+when the vowel following Ix carries the accent), LgoLe^lxEmk 
+person, flxarn town, te^lx'Em people. From the stem xe we have 
+iqoatE^xexe bullfrog ; from the stem kon, iqto^konkon woodpecker. 
+
+A few affixes only occur fairly frequently, but even in these 
+cases it is sometimes impossible to classify the words satisfactorily. 
+
+'ke-, I presume this prefix is the same as, or at least related to, 
+the verbal prefix -kiy -gi, which signifies that a verb usually transi- 
+tive is used without object.^ This explanation would be satisfactory 
+in ogiLqjup a cut, ige' L/mEUL/mEn something rotten, tgiWmatk 
+store, ogue^pxate alder (= wood for dying), ik/e^wulslgL food, 
+e'k'it payment for a wife, Lk/ewax torch, flower, tkipala^wul word, 
+tkimoUx'Em toy, ik/ete'nax game. 
+
+-qe-. This seems to be a nominal prefix corresponding to the 
+verbal reflexive -x-^: oqogu^nkLatk club from -xgunk to club, 
+Lqftcamete comb from -;r^/to*^;;^ to comb one's self, LqeLe'tcuwa\i'dX 
+horn 'XEHLe' tcuwa to hang a round thing on top of one's self, iqa- 
+t/se^ Lxak pdoithcr SLiid oqotsiayuLxak ants from -xts^' Lxako to have a 
+notch around one's self. 
+
+Judging from these examples it would seem plausible that most 
+nouns beginning with -gi-, -ki-, -k/S-, -qi-, -q/^- contain these pre- 
+fixes ; for instance : igfhixtcutk arrowhead, ige^mxatk burial, 
+
+1 See Swanton, loc. cit., 231. 
+
+2 Ibid., 218. 
+3 Ibid., 219. 
+
+AM. ANTH., N S., 6 — Q 
+
+
+
+I30 AMERICAN ANTHROPOLOGIST [n. s., 6, 1904 
+
+ige'l^ote elkskin, oqu^'nxak plank, ok/we' lak dried salmon, and other 
+similar ones. Here may also belong oquewi^qe knife, oq;wela!wMlx 
+maturing girl (the one who is moved up, hidden ?), iqfeyo'qxut old. 
+The extensive use of these prefixes is also illustrated by iqekjE's 
+brass, but ik/E^sa gall, both from k/Es yellow ; iqe'p/al doorway 
+(probably from -p/a into == that into which people always enter). 
+na- is a local prefix ; naLxoa'p hole from Lxoa'p to dig.^ 
+-te a suffix signifying tree, wood : ogue'pxaU alder = wood for 
+dying. 
+
+-tk is a nominal suffix the significance of which is quite obscure.^ 
+In a few cases it indicates the point of an object, but in many cases 
+this explanation is quite unsatisfactory. It seems possible that this 
+suffix is the same as the verbal stem -tk to put down, to deposit, 
+so that its meaning might be something on the ground, or some- 
+thing attached to something else, or a part of something else. This 
+explanation would be satisfactory in words like Vpotitk forearm, 
+ige^luxtcutk arrowhead, iwa^tiEmatk belly cut of a fish ; while 
+ilEtne'tk bed may be derived from -elx ground and may mean put 
+down on the ground, ikuLXE' lEmatk dish = put down to eat from. 
+The following list contains some stems with their nominal and 
+verbal derivatives. It will be noted that in a number of cases the 
+verb is derived from the noun : 
+-pxa alder bark -lx around neck 
+
+c^-pxa alder bark -Lx-ot it is around the neck 
+
+o-gue' -pxa-te alder i-q/e^ -Lx-ot necklace 
+
+L-ge'-pxa-te alder woods -tewa to bail out 
+
+-al-^-pxa to dye in alder bark -x-tewa to bail out canoe 
+
+L-q-L-a/'d^ -pxa dyed cedaLvhaiTk o-H-tewd' -Lx-te hdll^r (= for 
+
+-ts/eLx to notch bailing out into the water) 
+
+i-qa-ts/ e'Lx-ak what has a notch - kaniot ^ property 
+
+around itself = panther -x-Etnota to barter 
+
+o-qo-ts/d'yoLx-ak those with t-kamd^ta property 
+
+notches around themselves -kema{tky baton 
+-s-x-ts/eLx-ako to make a notch o'-kumatk baton 
+
+around a thing -xematk to beat time with baton 
+
+
+
+iSee Swanton, loc. cit., p. 209 
+
+2 Ibid., p. 210. 
+
+3 Probably a derivative 
+
+
+
+boas] 
+
+
+
+VOCABULARY OF THE CHINOOK LANGUAGE 
+
+
+
+131 
+
+
+
+'k/anxa^te ^ drift net 
+
+o-k/unxd'te drift net 
+
+-xEfi-k/unx a! te-mam to go to 
+catch in drift net 
+nauWitk^ net 
+
+-x€-naud'itge to catch in net 
+-wiuc urine of male 
+
+L-d^'Wiuc urine 
+
+'xa-wluc to urinate 
+
+o-wiuc-tnatk chamber 
+-kxamit to pay attention 
+
+i-ka-kxamit mind 
+
+-a-kxamit to pay attention 
+'gunk to club 
+
+o-qo-gu* nk-La-tk club 
+
+'X-gunk club 
+-tciatn to comb 
+
+L-qe-tcam-e-te comb 
+-z^^ to crawl 
+
+L-qa-Lxe'-la one who crawls 
+much = crab 
+-«/^a ear 
+
+d^'Utca ear 
+
+'X-wu* tca-tk to hear 
+'LxEl(Efn) to eat 
+
+i-ka-LxE* I'tnatk dish 
+-•^/V to break wind 
+
+-xE*l-^oic-qc to break wind 
+
+c^-^wic-qc wind broken 
+
+
+
+-i^^ to catch with herring rake 
+
+-x-Le-n to catch with herring 
+rake 
+
+i-qa-Le! -ma-tk herring rake 
+-mdcx'Em to play, to fool 
+
+t-ki'tnc^ cx' Etna toys 
+-wV^ wood 
+
+e-m^cx tree 
+
+o-m^ecx kettle 
+
+-xEl-mEqci to gather wood 
+'Letcuwa to put hollow thing 
+on top of something 
+
+L-qe-Letcuwa! -ma hat 
+-^^/ louse 
+
+^-^^/ louse 
+
+-ge-qci-a to louse 
+-/^V^:;^ to knit net 
+
+c-k^'tck-ma' tk net shuttle 
+
+-xEl-ge -k^tck to knit net 
+-tciakt to point 
+
+-gEn-tcia-kte to point at some- 
+thing 
+
+gi-tca* akte-l pointer = first 
+finger 
+-w^ to spit 
+
+-d-mqO'it to spit 
+
+-O'tn^-a to vomit 
+
+L-mX'te saliva 
+-^/^ thing, something, what 
+
+/-^/^ thing, something, what 
+
+'gEm-O'ktt to pay 
+
+
+
+On the other hand we find many cases of words, which in most 
+American languz^es are derived from the same stem, but which arc 
+not etymologically connected in Chinook. 
+
+
+
+blood -qawilqt 
+arrow -kalaitan 
+bucket, cup -cgan 
+
+
+
+to bleed wax ( = to pour out) 
+to shoot -Lata ( = to pull) 
+to drink -qamct 
+
+
+
+-Ipat (= to come out) 
+to hit -ma^ 
+thirsty -tnEqtit 
+
+
+
+* Probably a derivative. 
+
+
+
+132 
+
+
+
+AMERICAN ANTHROPOLOGIST 
+
+
+
+[N. s., 6, 1904 
+
+
+
+paddle -ski 
+hook -kik 
+shaman 
+
+
+
+qewam 
+
+
+
+to paddle -kLewa 
+to fish with hook -Le 
+to conjure -gelait 
+
+
+
+knife -{qe)wiqe "| 
+
+carving knife -Lk/ik > to cut -xc 
+
+(= crooked) J 
+dagger -{jqe)wiqe\ 
+lance -squt'L/Em V to stab -geLqLa 
+spear -moL/ane' ) 
+dead -mEqi 
+
+
+
+shaman ' s guardian 
+spirit 'kawok 
+
+
+
+excrement -jc^/^ 
+disease -/^/^ 
+
+
+
+to kill 'Wa^, -tena 
+to defecate -wetcxa 
+to send disease 
+
+
+
+qewam 
+
+
+
+thief -«^/<ra 
+grease -qatcau 
+harpoon -kulkuloL 
+rain -^eLxatct 
+whetstone -tea' la 
+tears -/^^j-/ 
+diggiiig stick -Lq 
+wedge -tcd'mx 
+
+
+
+murderer -k/auk/au 
+
+shaman who sends dis- 
+ease 'Lata (= to 
+shoot) 
+
+
+
+to steal -xtk 
+to grease, to oil -tigd 
+to harpoon -k^ca 
+to rain -qawilxt 
+to sharpen -kEla 
+to weep -gE'tsax 
+to dig roots -lap 
+
+to split wood LEX, tsEx 
+
+In this connection may also be mentioned the curious words 
+designating various occupations, which are formed not from the 
+verb designating the occupation, but from the guardian spirit pre- 
+siding over it. Thus we have tqe^qLax hunter's protector, ktia! - 
+xeqLUX one who has a tqe^ qLUx i. e. a hunter ; igi^tal whaler's pro- 
+tector, ^*^'^//^/ a whaler; iqamiaHtx fisherman's protector, ^Z^'- 
+qamia-itx fisherman ; ikawbk shaman's protector, giLdfxawok sha- 
+man ; itSi'xialn gambler's protector, gia^ts/xian gambler. 
+
+The Chinook vocabulary possesses a great many nouns of onoma- 
+topoetic origin. All of these contain the imitative group of sounds 
+doubled. Since in onomatopoetic words, when used as verbs, dupli- 
+cation of the stem signifies repetition, the doubling of the stem in 
+nouns may be interpreted as meaning that the particular sound is 
+uttered habitually by the object designated by the onomatopoetic 
+term. Some nouns contain other phonetic elements in addition to 
+the doubled group of imitative sounds. 
+
+
+
+boas] 
+
+
+
+VOCABULARY OF THE CHINOOK LANGUAGE 
+
+
+
+133 
+
+
+
+This class of nouns includes particularly names of birds, of a few 
+other animals, and a miscellaneous group of terms among which are 
+found names of parts of the body and a few terms of relationship. 
+Some of these are not strictly onomatopoetic, but may be included 
+in the class of doubled stems for the sake of convenience. 
+
+
+
+
+
+Birds 
+
+
+t/e 
+
+
+it/e't/e hawk 
+
+
+tsids 
+
+
+qoel 
+
+
+igoe'lgoel owl 
+
+
+gul 
+
+
+poe 
+
+
+ipc^epoe sp ? 
+
+
+lot 
+
+
+qes 
+
+
+ige'sgesy o*e'c*ec bluejay 
+
+
+ts/ek 
+
+
+gods 
+
+
+igod'sgoas crane 
+
+
+koae 
+
+
+gone 
+
+
+igone'gone gull 
+
+
+tcxEn 
+
+
+tSEfl 
+
+
+e'tsEntsEn humming-bird 
+
+
+
+
+goex 
+
+
+ogoe'xgoex female mallard 
+
+
+get 
+
+
+
+
+duck 
+
+
+kon 
+
+
+tc/dk 
+
+
+uU;aktc/d'k eagle 
+
+
+
+
+
+
+Mammals 
+
+
+pEfl 
+
+
+e'pEnpEn badger 
+
+
+cElg 
+
+
+
+
+c^pEnpEn skunk 
+
+
+kotc 
+
+
+nam (? 
+
+
+) enand'muks otter 
+
+
+tEp 
+
+
+
+Other Animals 
+
+
+
+go 
+
+Ldx 
+
+Iex 
+
+
+
+ma 
+gEl 
+
+
+
+plox 
+tcxol 
+
+
+
+e'gogo pike 
+iLo'xLox oyster 
+igalE'xlEx a small fish 
+(see: Iex scales) 
+
+
+
+emd'ma pewter grass 
+o'^ElgEl polypodium 
+
+
+
+xe 
+
+mEn 
+
+Id 
+
+Plants 
+cdg 
+
+
+
+up/o'xp/ox elbow 
+utcxo' Itcxol lungs 
+
+
+
+Farts of Body 
+kuc 
+
+
+
+oisid^stsias robin 
+e'gulgul heron 
+igso'tlotlot sp ? 
+omunts/e'kts/ek teal duck 
+otc/e'nakoaekoae sp? 
+tg/e'ptcxEntexEn sprit tail 
+
+ducks 
+cEngetgHt hawk 
+igstc^konkon woodpecker 
+
+
+
+e'cElgcElg porcupine 
+ukc^tckotc porpoise 
+sEfntEptEp shrew 
+
+
+
+ig/oatE'xexe bullfrog 
+olatse' mEnmEn newt 
+sEg/alolo butterfly 
+
+
+
+ucd'gcag pteris 
+
+
+
+ckuckuU testicles 
+
+
+
+gac 
+cga 
+k/e 
+
+
+
+Terms of Relationship 
+
+id' gaga his mother's father ma Ltd' mama his father 
+
+id'gacgac his father's father ta Lid'tata his mother's brother 
+
+oyd'cgacga his mother's mother kjdc ik/d'ckc boy 
+oyd'k/ek/e his father's mother 
+
+
+
+134 
+
+
+AMERICAN ANTHROPOLOGIST [n. s., 6, 1904 
+
+
+
+
+Miscellaneous 
+
+
+
+
+pat 
+
+
+ipa'ipat net 
+
+
+qom (?) 
+
+
+iqclmxdm cedar-bark 
+
+
+tCEl 
+
+
+e'tcEltcElhrzss buttons 
+
+
+
+
+basket 
+
+
+sEq 
+
+
+osE'qsEq buckskin 
+
+
+Lk/En 
+
+
+clLkjEnLkjEn open bas- 
+
+
+tSEx 
+
+
+LtsE^xtsEx gravel, thorn 
+
+
+
+
+ket 
+
+
+k/oye 
+
+
+okioye^kjoye fingering 
+
+
+quia 
+
+
+Lquld'*ula tgg 
+
+
+gac 
+
+
+ogc^cgac sealing spear 
+
+
+lEx 
+
+
+o^lExlEx scales 
+
+
+kup 
+
+
+ikupku'p short dentalia 
+
+
+L/uwalk 
+
+
+tL/uwalkL/uwalk mud 
+
+
+qal (?) 
+
+
+iqWlxal gambling disks 
+
+
+lEtn 
+
+
+olEmlEtn rotten wood 
+
+
+L/al 
+
+
+iLlalLlal gambling disks 
+
+
+
+
+{-*lEm rotten bark) 
+
+
+q/al 
+
+
+iqiaHqial short baton 
+
+
+qot 
+
+
+iq/e'qoiqot fever 
+
+
+qwis 
+
+
+cl^wtsqwts breaking of 
+wind 
+
+
+
+
+
+
+
+Among other groups of substantives which are expressed by 
+stem words I mention the following : 
+
+Terms of Relationship 
+L-icx singular, t-colal plural, relation by blood. 
+
+-xkun all those older than self, particularly elder brother and sister, 
+cousins in elder lines, i. e. father's elder brother's and mother's 
+elder sister's children,^ and all generations preceding that of grand- 
+parents. 
+ka'pxo elder brother ! elder sister ! addressed. 
+
+-wux all those younger than self, particularly younger brother and sister, 
+cousins in younger lines, i. e. father's younger brother's and mother's 
+younger sister's children,^ and all generations following that of 
+grandchildren. 
+
+au young brother ! addressed 
+<l/j younger sister ! addressed 
+
+-qac (doubled) father's father 
+
+-ga (doubled) mother's father 
+-kje (doubled) father's mother 
+'Cga (doubled) mother's mother 
+
+
+
+-qcEn man's son's child 
+
+qac son's child ! addressed 
+'kxagan man's daughter's child 
+
+qac daughter's child ! addressed 
+-kxin woman's son's child 
+
+ka'e son's child ! addressed 
+-tkin woman's daughter's child 
+
+ka*e daughter's child ! addressed 
+
+
+
+1 This classification of cousins is not quite certain. I am also not quite sure if this 
+term is confined to children of brothers and to those of sisters. 
+
+
+
+BOAS] VOCABULARY OF THE CHINOOK LANGUAGE 1 35 
+
+
+
+-^a (doubled) I ^^^j^^^ 
+-am ) 
+
+
+
+ma' ma father ! (addressed) -ka child 
+
+-naa ) ^, do son ! addressed 
+
+^mother ^ ^ , , ^^ 
+
+-dr j ^^ daughter ! addressed 
+
+-le term applied by child of a family to another child of the same family 
+and of opposite sex, i. e. brother's sister, sister's brother, boy's 
+father's brother's or mother's sister's daughter, and girl's father's 
+brother's or mother's sister's son.^ 
+-qamge term by which children of brother and sister call each other.* 
+-;«^/x father's brother, , ( man's brother's ) , ., , j 
+
+-ki'dtcxa mother's sister, 1 woman's sister's j 
+
+-ta (doubled) mother's brother, -Latx-Eti man's sister's child. 
+-Lak father's sister, -tgeu woman's brother's child. 
+
+-qoqcin relative by marriage. 
+
+-pL^au relative by marriage after death of intermediate. 
+
+-{k'ikaiy singular, -tiEmc plural, term mutually employed by husband 
+
+and wife. 
+-qstx' mutual relation between husband and wife's parents 
+-cte mutual relation between wife and husband's parents 
+-qtx' mutual relation between man and wife's brothers 
+-tom mutual relation between woman and husband's sisters 
+-potsxan mutual relation between one of a married couple and the other's 
+brother or sister, the two being of opposite sexes;* i. e. man's 
+brother's wife and wife's sister, woman's sister's husband, and hus- 
+band's brothers. 
+
+Parts of the Body 
+
+-L^a m. body -katcx m. nose 
+
+-qtq m. head -cqL m. mouth, beak, bill 
+
+-qco m. hair, skin with hair -mist m. beak 
+
+'tspux f. forehead -utca f. ear 
+
+-qot m. eye -at ex f. tooth 
+
+-xost d. eyes, face -tuk m. neck 
+
+
+
+1 This classification of cousins is not quite certain. 
+
+2 Probably cousins of the same family. This relationship includes the children of the 
+woman and the man, whom a widower or widow must marry. See below. 
+
+3 Derived from -kal man ? 
+
+* Marriage involves the duty or privilege of the man to marry one of these, in case 
+of his brother's or wife's death. 
+
+
+
+1 36 AMERICAN ANTHROPOLOGIST [n. s., 6, 1904 
+
+-paa n. nape -putc f. anus 
+
+-atsxi, chest -itcxva. tail 
+
+-mokue f. throat -//j/ n. tail of fish 
+
+-kutcx f. back -/^/^ m. arm 
+
+-mxtc m. heart -/^^/ f. finger 
+
+-tovci, breast -^ivitn, leg 
+
+-ze/^/? m. belly -/r n. foot 
+
+Names of Animals 
+In discussing the onomatopoetic nouns we found that many 
+names of animals, particularly of birds, are of this character. A 
+few names of animals are descriptive. These were probably used 
+as alternates in case one name of an animal became tabooed through 
+the death of a person bearing its name, or a name similar to it. 
+Examples are : 
+
+iqats/e'Lxak panther = having a notch around itself, i. e. with a thin 
+
+belly 
+oqotsHWyoLxak ants = those having notches around themselves 
+itcWyau a!yaqtq dragon fly == snake's head 
+i'galELx mink = going into the water 
+otccfiixul spider == dipnet maker 
+eqe^wam a fish sp. = the sleepy one 
+okc^lxul mouse = thief 
+ikiy!tkiut (Kathlamet dialect) dog == the one who always breaks (bones) 
+
+It is very doubtful if many of the other animal names can be 
+considered as stems. I am inclined to think that most are descrip- 
+tive names, although we cannot at present give their derivations. 
+This seems plausible, particularly on account of the great dialectic 
+differences between animal names in upper and lower Chinook. 
+
+Kathlamet. 
+-sqe'ntxoa m. 
+-ple^cxac m. 
+-la'lax m. 
+-pc^sta m. -kc^sa-it m. 
+
+-kanaxtnE'ne m. 
+-Lata't m. 
+-gusgu's f. 
+'t/d!ntsa i. 
+
+
+
+
+
+Chinook. 
+
+
+black bear 
+
+
+-i'tsxut m. 
+
+
+badger 
+
+
+-pEnpEn m. 
+
+
+deer 
+
+
+-ma'cEn m. 
+
+
+mink 
+
+
+-'galELx m. J 
+
+
+rabbit 
+
+
+-ske'epxoa 
+
+
+raccoon 
+
+
+-q/oala's m. 
+
+
+chipmunk 
+
+
+-'tsikin f 
+
+
+crow 
+
+
+-'k/uno f. 
+
+
+
+boas] 
+
+
+
+VOCABULARY OF THE CHINOOK LANGUAGE 
+
+
+
+137 
+
+
+
+mouse -kd*lxuli. 
+
+seal -Ixaiu f. 
+
+bird -la* lax n. 
+
+dog -ke'wicxn. 
+
+Other animal names are : 
+
+bear, cinnamon -tiEk m. 
+bear, grizzly -cd'yim m. 
+beaver -^ena m. 
+
+-qoa-in^ne m. 
+
+{-qafnuk m. Kathlamet) 
+coyote -t/aHapas m. 
+rat -qWlapas m. Kathlamet 
+buifalo -td*iha m. 
+crow (mythical name) -Laq/o* m. 
+duck (sp ?) 'We'gutc m. 
+eagle, bald headed -nine^x'o m. 
+elk -mo^lak m. 
+fish hawk -Itcap m. 
+flea -napo m. 
+grass frog -qiEnd'tieqen m. 
+heron -q/oa'skioai 
+horse -ke'utan m. 
+kingfisher -po'tsElal m. 
+lizard (?) -kine'pEt m. 
+mallard duck -cime^wat m. 
+mountain goat -r/'::t:^ m. 
+mussel, small -tgue' {matk) m. 
+mussel, large -niW{matk) m. 
+panther -k/oa^yawa m. 
+a bird sp ? 'tcu'yam m. 
+raven -koaWxoa m. 
+salmon, fall -qElEtna m. 
+salmon, spring -gu'nat m. 
+salmon, steel head -goane'x- m. 
+sea-lion -ge'pix-L m. 
+sea-otter -/i^'>^^ m. 
+shag -'paowe m. 
+shark ->^/^'j/V^m. 
+skate -aia'iu m. 
+
+
+
+-V^ f. 
+
+-qe'sgoax f. 
+p-lE'cplEc n. 
+-k/u'tk/ut n. 
+
+
+
+snake -tcd'yau m. 
+sperm whale -mok'^txi m. 
+squirrel -k/dutEn m. 
+sturgeon -nd'qon m. 
+sturgeon, green -kaLe*nax m. 
+swan -qel^q m. 
+turtle -'Laxoa m. 
+whale -'>^^/^ m. 
+lynx ^>^ m. 
+wolf -le'qiam m. 
+beetle -'^/V f. 
+a bird sp. ? -pe'qciuc f. 
+chicken -hawk -'npitc f. 
+mud clam -'/*^ f. 
+fresh-water clam -'j^/^ f. 
+coatch -wanio f. 
+crane -q/ucpale' f. 
+killer whale -gaLd'mat f. 
+dogfish (see shark) -q/od'icx f. 
+sea bird sp. ? -Lqekc f. 
+sea bird sp. ? -cxuWx f. 
+fawn of deer -q/e'xcap f. 
+trout (?) -qle^xone f 
+flounder -pkicx i. 
+frog -cue^ee f. 
+
+halibut -Ltc/alo'c f. (said to be bor- 
+rowed from Quinault) 
+louse -'^r/ f. 
+maggot -'/?^^^ f. 
+mole -ce'ntan f. 
+mosquito -'pIonatslEktslEk f 
+newt -qosd^na f. 
+screech owl -' ^jr^/^ f. 
+pheasant (?) -ni*ctxuic f. 
+
+
+
+138 
+
+
+
+AMERICAN ANTHROPOLOGISl 
+
+
+
+[N. s., 6, 1904 
+
+
+
+pigeon -qamEn f. 
+porgy -qaixt/E'mxi. 
+salmon, calico -laatcx f. 
+salmon, silver side -qawEn f. 
+salmon, blue back -tsoyeha f. 
+sea-lion, young -xoe f. 
+snail -ts/Eme'nxan f. 
+snail -ts/Emo'ikxan f. 
+snail -L/e'xtan f. 
+snipe -e'xsa f. 
+fish sp ? -no! wan f. 
+
+
+
+fish sp ? 'k/otaqe' f. 
+trout -//^7^ f. 
+fish sp. ? -'z^/^ f. 
+woodpecker -*kxuLpa f. 
+woodpecker -ntciawVct m. 
+wasp -'/^ f. 
+
+shell -fish sp? -k/i-La'ta n. 
+eel -kd'kole dual 
+codfish? -Id'ta-is pi. 
+flounder? -me'ti^a 
+grasshopper -tsfe'laq 
+
+
+
+On account of the intricate derivation of Chinook nouns and our 
+unfamiliarity with the component stems it is impossible to describe 
+the phonetic characteristics of nominal stems. The list of names of 
+parts of the body, given above, contains a number of stems consist- 
+ing of consonants only, while most of the others are monosyllabic 
+stems. It is doubtful if the purely consonantic stems have origi- 
+nated entirely through phonetic decay. A comparison of the upper 
+and lower Chinook dialects gives no decisive answer to this question. 
+
+On the whole I am under the impression that a considerable 
+number of monosyllabic nouns, and perhaps a few of two syllables, 
+may be considered as stems. I give here a brief selection of such 
+words : 
+
+
+
+-pqunx m. large round spruce root 
+basket ; f. small round spruce root 
+basket 
+
+-ctc/e'ct m. clam basket 
+
+-'maL m. bay, sea, river 
+
+'^d^k m. blanket 
+
+-Ik-au m. cradle 
+
+-qeL m. creek, brook 
+
+-'ktcxEtn m. dance of shaman 
+
+-Lq m. digging stick 
+
+-'""am m. dish 
+
+-pqon m. down of bird 
+
+-'qcilm, fish trap 
+
+-ci'kc m. friend 
+
+-pxil m. grease 
+
+
+
+-'Ixva, ground, earth 
+
+-'Lan m. short thong, string, pin 
+
+for blanket 
+-cgan m. cedar 
+
+f. bucket, cup 
+
+n. plank 
+-'tsoL m. harpoon shaft 
+-msta m. hat 
+-toL m. heat 
+-'k'ik m. hook 
+-kd'pa m. ice 
+-paqc m. boil, itch 
+-kxon m. leaf 
+
+-'m^Ecx m. log, tree, wood; f. 
+kettle 
+
+
+
+BOAS] 
+
+
+
+VOCABULARY OF THE CHINOOK LANGUAGE 
+
+
+
+139 
+
+
+
+'kala m. man 
+
+-'LkutLxm, mat 
+
+-Jfd! kxal m, mountain 
+
+-'sik m. paddle 
+
+-^apta m. roe 
+
+'-* pa-it m, rope 
+
+-nxat m. plank 
+
+-go'cax m. sky 
+
+-la^tix' m. slave 
+
+-^tcxa m. point ot sealing spear 
+
+-kalivok m. shaman's guardian spirit 
+
+-c^o m. horn spoon 
+
+-maktcTCi. spruce 
+
+-qa'nakc m. stone, f. large bowlder 
+
+-'kta m. thing 
+
+-qat m. wind 
+
+-'/-^(flj f. alder bark 
+
+-^lE'rn f. bark 
+
+-'pL/ike f. bow 
+
+-Le'qtsEn f. box 
+
+-paJutc f. crabapple 
+
+-*alEptckix f. fire 
+
+-'^^z f. fish weir 
+
+-lalxi, camass 
+
+-tcala f. grindstone 
+
+-mala f. marrow, kernel 
+
+-'pul i. night, darkness 
+
+
+
+-w^'^ f. plank 
+
+-ga'we f. raspberry 
+
+-mopa f. rushes 
+
+-gu'nkxun f. salal berry 
+
+-'j^z f. sinew 
+
+-7^/;^ f. stump, foot of tree 
+
+-^d'Lax f. sun 
+
+-e'xatk f. trail 
+
+-mo' tan f. twine of willow bark 
+
+-pcam {. piece of twine 
+
+-/id't/au f. virgin 
+
+-tea' nix f. wedge 
+
+-'/zjc f. well 
+
+-qLq n. armor 
+
+-^^^^ n. blanket 
+
+-^a'tcau n. grease 
+
+-skuic n. mat bag 
+
+-to n. milk, breast 
+
+-tcuq n. water 
+
+-kckuV n. pitch wood 
+
+-;«/>^ d. spit 
+
+-kEmom pL ashes 
+
+-/^^ pi. grass 
+
+-quL pi. house 
+
+-xt pi. smoke 
+
+-'^^^ pi. tattooing 
+
+
+
+Nouns Expressing Adjectival and Verbal Ideas 
+
+In Chinook a great many adjectives and verbs are expressed by 
+substantives. In these expressions the quality or action becomes 
+the subject or object of the sentence, as the case may be. The 
+Chinook will say : **The man's badness killed the child's poverty,** 
+meaning that the bad man killed the poor child. It is true that 
+such expressions are not entirely unfamiliar to us, for we can say, 
+** he went the whole length of the way,'* or ** he mastered the diffi- 
+culties of the problem,** in which we also treat a quality as objective. 
+In Chinook this method is applied to a greater extent than in any 
+other language I know. Many quahties are used only as abstract 
+
+
+
+I40 AMERICAN ANTHROPOLOGIST [n. s., 6, 1904 
+
+nouns, while others may be transformed into adjectives by the prefix 
+g- which expresses possession ; for instance, id'q/atxal his badness, 
+gia/ qiatxal the one who has his badness, i. e. the bad one. In the 
+same way verbs appear as nouns. This also is a mode of expres- 
+sion not unfamilar to us, although the frequent application of such 
+expressions and the ideas they express appear very strange. We 
+can say, like the Chinook, ** he makes a hit" and ** he has a sick- 
+ness,'' instead of " he hits *' and '* he is sick " ; we can even use the 
+verbal idea as the subject of a transitive verb or form analogous 
+passive constructions ; for instance, ** sorrow filled his heart,'* ** he 
+was seized by a fit of anger," but the absence or rarity of the cor- 
+responding verbal forms and the strong' personification of the verbal 
+idea in the noun appear to us quite strange. 
+
+Most of the nouns of this class are always used with the posses- 
+sive pronoun. The following examples illustrate their uses : 
+A'lta (i) ttsano'kstx (2) dLk/£fnLk/En (3) agid'ldtk (4) ik/Ena!fan (5) 
+
+now (i) she put (4) potentilla roots (5) into (4) the smallness of 
+
+(2) a clam basket (3) 43.22 
+Ghd^ (i) itci'qdqcin (2) Lia'xauyam (3) ! oho', (i) my wife's relative's 
+
+(2) poverty (3)! i. e. oh, my poor relative ! 67.21 
+Taqe^ (i) ee'tcxot (2) ia'lkuile (3) just like (i) a beards (2) similarity 
+
+(3)275-11 
+QuIe'U (i) igc^LgEli (2) tcaxt (3) Ic^i (4) once more (i) her lie (2) has 
+
+done her (3) loi (4) i. e. loi has lied again 163.14 
+O'lo (i) aktaJx (2) te'lx'Em (3) hunger (i) acts on (2) the people (3) 
+
+260.16 
+Ka}nauwe (i) tElala!xukc (2) c^tam^o (3) all (i) birds (2) their chewed 
+
+thing (3) i. e. all birds eat of it 40.18 
+Ta!kE (i) d'yaU/a {2)mxa!lax (3) then (i) his sickness (2) came to be 
+
+on him (3) i. e. then he became sick 
+Qa'da (i) itxd'^alqt (2) qtgid'xo (3)? how (i) shall we make (3) our 
+
+wailing ( 2 ) ? 
+
+Following is a list of these nouns : 
+
+Qualities 
+-nu'kstxm. smallness -'tc/pux m. round head {^{oxq- 
+
+-'{k/e')siL m. sharpness head) 
+
+-'xalx'te m. flatness -'p/aqa m. flat head 
+
+-'pik m. heavy weight -'mEnukt m. blackened face 
+
+-ftsiaxan m. large belly -'{ki)matck m. spots, painted face 
+
+
+
+boas] 
+
+
+
+VOCABULARY OF THE CHINOOK LANGUAGE 
+
+
+
+141 
+
+
+
+-'wa m. expense 
+
+-qjatxal m. badness 
+
+-q/e'latcx'ena m. meanness 
+
+-Iq/e' latex 'ita m. quiet 
+
+-'yuL/lvci. pride (seep. 120) 
+
+-k/oac (^omit) m. fear (see p. 120) 
+
+-kcUkxuL m. homesickness (sub- 
+ject of transitive verb) 
+
+'kanaJte m. life 
+
+-tsaJtsa m. cold (see p. 123) 
+
+-^Ikuile m. similarity 
+
+-*tukLtx m. good luck 
+
+-tela m. sickness 
+
+''pIofiEnkan m. blindness 
+
+-kunanEtn m. diligence 
+
+-{kt)ma! tct{amif) m. shame 
+
+- L/kin m. bowlegs 
+
+-Lkjop m. being squeezed out 
+( = one eyed) 
+
+-qe'wam m. sleepiness (subject of 
+transitive verb, and possessive) 
+
+
+
+-tckc m. stench 
+
+-qlEs m. sweet smell 
+
+-tsIemEn m. sweetness 
+
+- LiL m. bitterness 
+
+-Lelam m. ten 
+
+-ki'amdnak m. hundred 
+
+-'t/owilm. experience (from //^ — 
+
+good) 
+-'(>&.)//^/m. 1 ^.jj 
+-tldxotsktn m. j 
+-tidxakamit m. cleverness (= good 
+
+mind) 
+-A// f. cataract of eye (= smoki- 
+
+ness) 
+-xax n. sadness 
+
+-xauyatn n. what excites sympathy 
+-patseu n. red head 
+-'k^Ltl^l. custom 
+-k'tLau pi. taboo 
+-{kt)pa!lau pi. witchcraft 
+-katakox pi. cleverness 
+
+
+
+-L/me'nxut m. lie of ^ 
+
+
+
+subjects of 
+i- transitive 
+
+
+
+verb 
+
+
+
+a male 
+'gd^LgEle m. lie of 
+
+a female J 
+
+-'wdr* m. act of hitting (= to hit) 
+'kakamit m. mind (= to think) 
+
+
+
+Verbs 
+
+-qalqt m. a wail (= to wail) 
+
+''kuxva, smell (= to smell) 
+
+'Id f. hunger (subject of transitive 
+
+verb) 
+-m^o f. what is chewed 
+-qotck f. cold in head 
+
+
+
+It will, of course, be understood that these words, from the 
+Chinook point of view, do not form a separate class, but that they 
+are simply concrete or abstract nouns, as the case may be. They 
+are in no way different from similar constructions in English, in 
+which the quality of an object is expressed as its property. We 
+find, therefore, also, that many ordinary concrete nouns perform 
+the functions of adjectives. Aya' pxEla (i) icimfwat (2), literally: 
+the duck (2) its fat (i) means the duck had (much) fat or the duck 
+was fat. The only peculiarity of Chinook in this respect is, that 
+certain ideas, which we consider as qualities or activities, are always 
+
+
+
+142 AMERICAN ANTHROPOLOGIST [n. s., 6, 1904 
+
+considered as concrete or abstract nouns. A glance at the list 
+shows clearly that quite a number of these words cannot be con- 
+sidered as stems. Some are derivatives of unchangeable words and 
+others are evidently compounds. 
+
+It may be mentioned in this connection that substantives are 
+often used to qualify other substantives. In this case the qualifying 
+substantive takes the gender of the one qualified : d'kxola 0^0' wun 
+a male silver-side salmon 109.3, ^ekil i'mo^lak a female elk 264.3. 
+These qualifiers remain true substantives, as is shown by the femi- 
+nine prefix 0' which is characteristic of substantives. 
+
+2. Pronouns. — It does not seem necessary to treat personal 
+and possessive pronouns fully in this place, since this subject has been 
+treated by Dr Swanton.^ I must, however, add a few remarks on 
+the demonstrative pronoun, which has been made the subject of a 
+special study by Mr William Jones. He finds that the demonstra- 
+tive series consists of two series of three forms. The first series 
+denotes objects visible and present in time, the second objects in- 
+visible and belonging to the past. Each series embraces those 
+forms for objects near the speaker, near the person addressed, and 
+near the person spoken of The first series is characterized by the 
+prefix X*-, the second by the prefix q-. These prefixes are followed 
+by an element indicating gender and corresponding to the personal 
+pronouns of the third person. The locations corresponding to the 
+three persons are indicated for the first person by the suffix -k ; for 
+the second person partly by the suffix -«, partly by the vowel 
+-!-(-^-) following the prefix ; for the third person partly by the suffix 
+'X\ partly by the vowel -o- following the prefix. The series seems 
+to be defective, probably for the reason that the combination of in- 
+visible and near first or second person is rare. 
+
+The following table illustrates the use of these demonstratives : 
+
+
+
+
+
+
+
+Present^ Visible, 
+
+
+
+
+
+
+
+
+Near ist Person 
+
+
+Masc. 
+X'ik 
+
+
+Fem. 
+x-ak 
+
+
+Neutr. 
+x'iLik 
+
+
+Dual. 
+x'lctik 
+
+
+Plural. 
+X'ltik 
+
+
+Plural, 
+
+Human 
+
+beings. 
+
+X'itikc 
+
+
+Near 2d Person 
+
+
+x'iau 
+
+
+x-au 
+
+
+x'lLa 
+
+
+x'lcta 
+
+
+X'ita 
+
+
+x'ltac 
+
+
+Near 3d Person 
+
+
+x'ix' 
+
+
+x-ax 
+
+
+x'OLa 
+
+
+x'octa 
+
+
+x'ota 
+
+
+x'otac 
+
+
+
+1 Loc. cit, pp. 210-21 1. 
+
+
+
+BOAS] VOCABULARY OF THE CHINOOK LANGUAGE I43 
+
+
+
+
+
+Fast, 
+
+
+Invisible 
+
+
+
+
+
+
+
+
+Near ist Person — 
+
+
+— 
+
+
+— 
+
+
+— 
+
+
+— 
+
+
+— 
+
+
+Near 2d Person qiau 
+
+
+— 
+
+
+qeLa 
+
+
+qecta 
+
+
+qeta 
+
+
+qetac 
+
+
+Near 3d Person qix- 
+
+
+qax 
+
+
+qoLa 
+
+
+qocta 
+
+
+qota 
+
+
+qotac 
+
+
+
+Demonstrative adverbs seem to exist in two similar series, for 
+instance, x'lgo here, qlgo there. 
+
+3. Verbs. — The onomatopoetic stems which do not readily 
+form true verbs, and the nouns used for expressing verbal ideas 
+— so far as they are not derivatives — reduce the total number of 
+true verbal stems considerably. These are very brief, consisting 
+sometimes of a single sound, often of a group of consonants, or of a 
+single syllable. Stems of this character are relatively so numerous 
+as to arouse suspicion that all dissyllabic stems may be com- 
+pounds. 
+
+1 doubt if it is quite correct to consider the local suffixes 
+enumerated by Swanton ^ as real suffixes. Forms like d'yoptck he 
+goes inland may very well be explained as verbal stems with the 
+directive prefix -o,^ That this interpretation is correct is also sug- 
+gested by forms like ni^ lx La-it he goes to the beach and stays 
+there which is evidently compounded of -lx motion toward the 
+beach, and -La-it to be, to remain. Compounds of nouns and verbs 
+are -mok'oya to choke = to be between the throat {-mokue throat, 
+-o^ya to be between); cmo' laktcxict elk nose {-molak elk, -tcxict 
+nose). We have also compounds of two nouns ; for instance, 
+aqageHakte woman's things {-qag^'lak woman, -kta thing). 
+
+In many cases it is very difficult to determine the stem of the verb, 
+because it remains often doubtful whether an initial -x, -k, and -g 
+belong to the stem or to a prefix. The following list contains only 
+such stems the phonetic character and significance of which appear 
+reasonably certain. The stems are arranged according to their 
+initial sounds ; first vowels, then labials, dentals, palatals, and finally 
+laterals : 
+
+'d'newa first -ext one (for animals and inanimate 
+
+-^'^WA- others, apart objects) 
+
+-d'mka only, alone -e'xat one (person) 
+
+^Loc. cit., p. 225. 
+
+2 Ibid., p. 218. 
+
+
+
+144 
+
+
+
+AMERICAN ANTHROPOLOGIST 
+
+
+
+[n. s., 6, 1904 
+
+
+
+-o\^i to go. The forms of this verb 
+are irregular. Some are derived 
+from a stem -/, while others seem 
+to have the stem -0, It may be, 
+however, that the latter is only 
+the directive prefix -0-, The stem 
+-/, which is absent in forms like 
+a' yd he goes, a!Ld it goes, reap- 
+pears in ay 0' yam he arrives, 
+ayo'ix he is in the habit of going 
+no'ya I go 
+w^'jV^w I arrive 
+ne'gEmoya he goes along it 
+nigElo'ya I go for a purpose, i. e. 
+
+I go hunting 
+ayoe'wulxt he goes up 
+
+-xEl\\di\ma other, different 
+
+-wa to pursue 
+
+-d\\wa to pursue trans. 217.7 
+-xd\\wa to run pi. intr. 276.9 
+-xE^l\\wa\ko to follow around 
+-u\\wa!\\x'it to flee = to be pur- 
+sued 223.10 
+-u\\wd'\ko to demand 157.19 
+
+a!\\wa^ to kill sing. obj. 
+
+-a\\wan pregnant 186.6 (= belly) 
+
+-d\\wul^ to swallow 46.12 
+
+-d\\wtntsx to melt 
+
+-u\\we''^ raw, unripe 93.26 
+
+'PEna to jump 
+
+-o\\pEna trans, with dual object, 
+to jump 192.13 
+
+-palau to talk 
+
+-o\(balaw\ul to address someone, 
+
+trans. 213.15 
+-ki\[palau substantive to bewitch 
+== word 
+
+-o\\pid'Lx to gather, to pick 245.5 
+
+-o\\pe^La to scratch 26.21 
+
+-o\\peL to stretch out 109.12 
+
+
+
+-po to close, to shut 
+-a\\pd to shut a box 
+-n\\pd\f to shut in = to shut eyes 
+47.18 
+
+-x\\pdna to carry food to wife's rel- 
+atives 249.7 
+
+-o^pdn\it to put up 29.8 
+
+-/^/darkness, night 
+
+no'ponEm it gets dark 23.5 
+
+-d\\pcut to hide 9. 10 
+
+-o\\ptca to lead by hand 130.6 
+
+-o\\ptcx to mend 
+
+-o\\p/Ena to pronounce, to utter 
+
+25321 
+-o\\m\ako to distribute, to give pre- 
+sents 98.8 
+
+-l\\m\ako 77.17 
+-o\\md^inx rotten 199.26 
+-o\\me\Uk to find, gather up 
+
+162.21 
+-l\\m€ctx to loan, to lend ; trans. 
+
+with two obj. 
+-o\\megL to lick 42.8 
+-^||;w^/^ to scold 93.24 (=bad? 
+
+Kathlamet) 
+-mexa one more 
+-o\\mEt to grow up 224.4 
+'d\\mEl to buy 94.20 
+-d\\mEqt to die sing. 114.3 to faint 
+
+239.6 
+
+-d\\mEqtit thirsty 7 1 . i 
+-niEq to vomit, to spit 
+
+-d\\mEq\o-it to spit 
+
+'e\\m^\a to vomit 13.6 
+
+e^\\m^a\lqL qualmish 
+-xEn\[mo^sx'Em to play, to fool, to 
+
+make fun of 178.18 
+-^||/ to give 164.6 
+-/ to come 
+
+-t\e to come 15.18 
+
+
+
+boas] 
+
+
+
+VOCABULARY OF THE CHINOOK LANGUAGE 
+
+
+
+145 
+
+
+
+'t\e\mam to arrive coming 
+
+161. 14 
+'X\\^akd to come back 28.21 
+-x\\t\akdm to arrive coming 
+
+back 16.17 
+-ga\\t\/dm (for -gatqdm) to 
+
+meet 94.11 
+'gEi\^ta to leave 250.8 
+
+-xEl^ta to leave 250. 10 
+-^El\\ta\qL to leave sing. obj. 
+
+123.15 
+-e\\ta\qL to leave plur. obj. 
+
+128.7 
+-l\\ta\tkc to leave to some- 
+body 177.5 
+-l\\taqtX,o meet 164.26 
+-o\\tena to kill plur. obj. 23.22. 
+-l\\tigd to oil, to grease; trans, 
+with two objects, the direct object 
+-z- standing for " grease '' 
+-xeI 1 1 torn to accompany 135.20 
+-o\\tukc to suck 
+-tk to put down 
+
+-d\\tk to put away 177.6, to 
+
+snow 42.1 
+-xEm\d\\fk to stake 30.16 
+-o\\tg\akd to step (= to put 
+
+down around) 240.29 
+-d\tdn\\tk to put first = to begin 
+-d\\tx to give away 
+-tx to stand sing. 
+
+-d\\tJ^uit to stand 184.20 
+-^|^|/^ to stand on, to strike 
+
+191.20 
+-d\\tx\utt\tcu to fall down 
+-d\\tx\amit to place upright 
+
+48.5 
+-d\\/x\mUk to make ready 
+
+42.17 
+-xEl\\tx\uitck to get ready 
+
+AM. ANTH., N. S., 6— lO 
+
+
+
+-team to hear 
+
+-^1 \tcimaq to understand 165.16 
+-l\\tcimaq to hear 24.18 
+
+-^||/^^«^ to lay down 98.6 
+
+'o\\tceqLk^ to be crosswise 266. 13 
+
+'gEl\\tcim to strike, to hit 66.4 
+
+'Ut to move on water 
+
+-o\\tct\Uu to go down river by 
+
+canoe 277.3 
+'o\\tct\amtt to push into water 
+74.22 
+
+-o\\tctxdm to finish 46.23 
+
+naxE'\\tctxdm to finish one's 
+own (breath), to faint 
+
+-^||/^^/^ to wash 39.22 
+
+-^1 1 /^^«/ short 
+
+-xEl\o\\tcx to observe 25.1 
+
+-o\\tcxEm to boil 23.4 
+
+-c to be somewhere sing. 
+'o\\c to be 219.7 
+-l\d\\c to be in 15 1.3 
+-k\d\\c to be on 39.12 
+-^1^1 1^ to be on ground 
+39.18 
+
+-o 1 1 ci to roast in ashes 185.4 
+
+-o\\ctx to carry on back 114.20 
+
+-eg to take 
+
+•o\\cg\am to take 134. i 
+-o\\cge\Lx to take to water 
+-x\\cg\am to take away 
+'gEl\ge\\c^am to help 28.6 
+'x\\cg\ai\iL to play 17.4 
+
+-o\ \sko\it warm 1 74. 14 
+
+'ckta to search on beach 88.4 
+
+-o\\ck^/L to turn over fire 
+
+-'\\nata on the other side, across 
+
+-naxL to miss something that is 
+needed 
+
+-o\\naxL\aUk to lose 43.17 
+
+-o\\naLx to wipe 
+
+
+
+146 
+
+
+
+AMERICAN ANTHROPOLOGIST 
+
+
+
+[n. s., 6, 1904 
+
+
+
+-ni to tie (?) 
+
+-k/e\\m'\ako to tie around 253. 2 
+
+-^ • 1 1 ni\ ako to tie around 115.24 
+-ngo to run sing. 
+
+-xa^ngo to run 23.23 
+
+-xa\tEngo to come running 28.3 
+
+-o^ngc^ntit to cause to run = 
+to carry away 27.16 
+
+-dengue to flutter 
+'kEl to see 
+
+-^Ei}^kEl to see sing. obj. 1 15. i 
+
+-V||>^^/to see pi. obj. 66.11 
+-ka to fly 
+
+'d\[kd to fly 
+
+-t\\^ka to come flying 
+
+-t\\^ka\mam to arrive flying and 
+coming 
+-kim to say 
+-ge^xa to swim 
+
+-o\\guexa to swim 14.15 
+
+-gEl\\ge' xa\xe to swim across 
+217. II 
+gexe (^-guexe ?) to sweep 
+
+-o\\guexe 172.5 
+-^^ to go home, to pass 
+
+-^1 l^^togohome 25.9, to go past 
+
+-xa\t\ \kd to come home 212.2 
+-ka {j-ko ?) 
+
+-o\\kd to order 129.29 
+-gon another 
+
+-^1 \kxue to throw away 1 7 . 1 1 
+-o\\kuman to look at 47.2 
+-o\\kula to sharpen 15,21 
+-gEta to pursue, to meet, 197.24, 
+
+23.19 
+-o\\ktik to lie down on side 76.8 
+-kto\mit to take revenge on relative 
+
+of a murderer 203.10 
+-ktuq to enslave 
+'o\^ktc to carry 66.4 
+
+
+
+-ktcax {-gE'tcax) to cry 275.2 
+-o\\ktcan to hold in hand 271.10 
+-^1 1 ^/r/^/ roasted, done 134.10 
+
+-o\\ktcikt\amit to roast 93.26 
+-o\\kc to harpoon 92.9 
+-o\\k€t to see 217.22 
+
+-o\\kct\am to go to see 187.10 
+-o\\kct (probably the same as -ktc 
+
+above) to carry 38.18 
+-x\o\\kcti to lie down, to sleep 
+
+76.20 
+-xa^o\\kctgo to throw down 16.8 
+-o\\k^tck to make net 95.4 
+-^||^**z to carry 129.19 
+
+-t\\k^L to bring 127.13 
+
+'j\\k^L\am to arrive bringing 
+67.6 
+-k^L to tell 
+
+x-i\\guL\itck to tell 37.17 
+
+-^P'*I|^/4i.4 
+-kLewa to paddle 135. i 
+-o^kLpa to miss 271.13 
+-kf-a to haul, to pull 
+
+-^ll^/a 1 1 7. 1 9 
+
+-gat\\kia to haul here 
+-kioL to glue 
+-^11^ to meet 
+
+'ga\f\dm to arrive meeting 
+117.24 
+-a\[qamt (^-a\\q\ami^?) to look 
+
+218. II 
+-a\\qamsf to drink 
+-I\\qamx to shout 
+-qana\it to lie 
+
+-o\^quna\it Xo lie down 16.23 
+
+-k\[qana\it to lay on top of 
+
+-o\\iqunW\it\x'it to fall down 
+-qa'yaqt between 
+'0\^qa-iL large 
+-qena orphan 
+
+
+
+BOAS] 
+
+
+
+VOCABULARY OF THE CHINOOK LANGUAGE 
+
+
+
+147 
+
+
+
+-^em to give food 
+
+-t\\^em to give food 
+
+-t\\Iem to come to give food 
+
+'ge\^qoim 240.28 
+-^dya between 
+
+'fi^^oya to put between into 
+172.20 
+
+-a)^^oya\mit to leave meanwhile 
+93.26 
+
+-a}\^oya days = time between 
+-a^^wewuL to invite 176.18 
+
+-t\^lewuL to invite here 41.6 
+-a)^wilx' to hit, to strike 65.12 
+-a 1 1 ^optit to sleep 255.16 
+-a\\'dpk to steam on stones 97.25 
+'a\\iqdt\.o bathe 
+
+-^||W to bathe sing. 
+
+'x\^dyut to bathe pi. 
+-a\\'dU/ to awaken sing. 
+
+-a 1 1 ^oyutcl to awaken pi . 1 3 7 . 2 3 . 
+-a^^^dnitn to laugh at 184.3 
+-a^^qc to split wood 45.18 
+
+to bite 100.13 
+-a^^qcti to be satiated 172.12 
+-qLa to count 
+
+-qLa!x'it to menstruate = to be 
+counted 
+'O^xun to drift, 200.7 
+-o^xtk to steal 163.12 
+-o\[X'tkin to research 12.5 
+-xgo to be transformed 
+
+-xgd\mit to transform 30. 23 
+-a)^x transitive : to do ; intr.: to be- 
+come, to be 
+
+-\\x\dm to arrive 
+
+'a\\x\oUk to work = to begin 
+to do 
+-xauwe many 
+
+
+
+-xdyal common man 
+-xena to stand pi. , to place upright 
+23.6 
+
+-xena\x'it to stand pi. 235.19 
+-xotnem to show 41.2 
+-gEn^xoten to help sing. 235.5 
+-\\pxoqtc to invite 60.4 
+-xdL{ t dizzy 
+-xoLi to finish 
+-o^xtk to swim (fish) 63.13 
+-xg\aka to surpass 245.13 
+-^ll^i' to cut 
+-/ to move 
+
+-o\^t[a to move 
+
+-^||/|/to shake, intr, 156.14 
+
+-o\^t\atck to lift 25.21 
+-lap to dig 
+a -laxta next 
+-o\^lEktc to roast 124.19 
+-^||/a7jj/« to say to; trans. 13.17 
+'LEtndt next to last 
+-La to sit, to remain 
+
+-^||z^|//to be, to sit 22.10. 
+
+-gEm}^La\it to wait for 128.5 
+
+-^^'||z^|/Vdead pi. 
+
+-k^La\it to be in canoe 
+-d^Lata to pull back 38.13 
+
+-o^La!ta\xnt to fly about 269 
+-Lki'ik crooked 
+-^||z^^/long 
+'O^l! {jO^Lq^ to win, to surpass 
+
+30-15 
+
+-LqLa to strike 
+
+-ge^LqLa to stab 89.1 
+-xEl\d^LqLa to hammer 
+
+-xEl\^LxElEm to eat 
+
+-L/ala foolish 
+
+-l/eIex lean 
+
+
+
