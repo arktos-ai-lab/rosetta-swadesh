@@ -25,7 +25,10 @@ for r in csv.DictReader(open(os.path.join(REL, "swadesh_long.csv"), encoding="ut
 D = [[] for _ in concepts]
 for (ci, li), forms in sorted(cells.items()):
     D[ci].append([li, " | ".join(forms)])
-data = json.dumps({"L": langs, "C": concepts, "D": D}, ensure_ascii=False, separators=(",", ":"))
+S = [[r["identifier"], r["lang_code"], r["title"], r["kind"], r["licence"], r["status"], r["reason"], r["uploaded"]]
+     for r in csv.DictReader(open(os.path.join(REL, "inventory.csv"), encoding="utf-8"))]   # from inventory.py
+S.sort(key=lambda r: (r[5] != "not included", r[3], r[0]))
+data = json.dumps({"L": langs, "C": concepts, "D": D, "S": S}, ensure_ascii=False, separators=(",", ":"))
 data = data.replace("</", "<\\/")
 html = open(os.path.join(HERE, "scripts", "viewer_template.html"), encoding="utf-8").read()
 html = html.replace("__DATA__", data).replace("__NLANG__", f"{len(langs):,}").replace("__NCON__", f"{len(concepts):,}")

@@ -60,6 +60,15 @@ td a.lang { color: var(--ink); text-decoration: none; border-bottom: 1px dotted 
 .empty { padding: 24px 16px; color: var(--muted); }
 .note { background: var(--warn-soft); color: var(--ink); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; font-size: 0.92rem; max-width: 90ch; }
 .note b { color: var(--warn); }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; }
+select { font: 0.95rem var(--f-body); padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--ink); }
+.summary { padding: 12px 16px; border-bottom: 1px solid var(--line); overflow-x: auto; }
+.summary table td, .summary table th { position: static; padding: 4px 10px; }
+.summary td.num { font-family: var(--f-mono); font-variant-numeric: tabular-nums; text-align: right; }
+.pill { display: inline-block; font-size: 0.78rem; font-weight: 600; padding: 1px 8px; border-radius: 999px; white-space: nowrap; }
+.pill.in { background: var(--accent-soft); color: var(--accent); }
+.pill.out { background: var(--warn-soft); color: var(--warn); }
+td .why { display: block; color: var(--muted); font-size: 0.82rem; }
 footer { color: var(--muted); font-size: 0.85rem; }
 footer a { color: var(--accent); }
 @media (prefers-reduced-motion: no-preference) { .rail button, .tab { transition: background-color .12s; } }
@@ -69,15 +78,28 @@ footer a { color: var(--accent); }
   <header>
     <h1>Rosetta Swadesh Lists</h1>
     <p class="sub">Basic vocabulary from the Rosetta Project's Swadesh lists on the Internet Archive, brought together in one place. Pick a concept to see it across every list, or a language to see its whole list.</p>
-    <div class="stats"><span><b>__NLANG__</b> lists</span><span><b>__NCON__</b> concept labels</span><span>source: archive.org, collection <b>rosettaproject</b></span><span>licence tag: CC BY 3.0 (see note)</span></div>
+    <div class="stats"><span><b>__NLANG__</b> lists</span><span><b>__NCON__</b> concept labels</span><span>source: archive.org, collection <b>rosettaproject</b></span><span>licence tags: CC BY 3.0, CC0 (see note)</span></div>
   </header>
 
   <div class="tabs" role="tablist">
     <button class="tab" id="tab-concept" role="tab" aria-selected="true">By concept</button>
     <button class="tab" id="tab-lang" role="tab" aria-selected="false">By language</button>
+    <button class="tab" id="tab-src" role="tab" aria-selected="false">Sources</button>
   </div>
 
-  <div class="grid">
+  <section id="sources" class="main" hidden>
+    <div class="head">
+      <h2>Every Rosetta Swadesh item on the Internet Archive<small id="srccount"></small></h2>
+      <div class="filters">
+        <select id="srcstatus" aria-label="Status"><option value="">All items</option><option value="included">Included</option><option value="not included">Not included</option></select>
+        <input type="search" id="srcq" placeholder="Filter by code, title, reason" autocomplete="off" aria-label="Filter sources">
+      </div>
+    </div>
+    <div class="summary" id="srcsummary"></div>
+    <div class="tablebox"><table><thead><tr><th>Item</th><th>Code</th><th>Title</th><th>Kind</th><th>Licence</th><th>Status</th></tr></thead><tbody id="srcbody"></tbody></table></div>
+  </section>
+
+  <div class="grid" id="words">
     <nav class="rail" aria-label="List">
       <div class="head">
         <label class="label" for="railq" id="raillabel">Concepts</label>
@@ -94,7 +116,7 @@ footer a { color: var(--accent); }
     </section>
   </div>
 
-  <div class="note"><b>About the licence.</b> The Internet Archive items carry a CC BY 3.0 tag from the Rosetta Project (the 10 items without a tag are left out). The Rosetta Project's 2010 announcement says the lists combine original work by Tim Usher and Paul Whitehouse with outside resources, including Tryon's <i>Comparative Austronesian Dictionary</i> and the Starostin and Peiros databases. The files do not say which form came from which source, so treat the tag as the uploader's statement. Where a concept appears more than once in a list, every form is shown, separated by a bar.</div>
+  <div class="note"><b>About the licence.</b> The lists in the Rosetta Project collection carry a CC BY 3.0 tag from the Rosetta Project; five lists that volunteers uploaded outside the collection carry CC BY 3.0 or CC0. Items without a tag, or with a share-alike, non-commercial or no-derivatives licence, are left out (see Sources). The Rosetta Project's 2010 announcement says the lists combine original work by Tim Usher and Paul Whitehouse with outside resources, including Tryon's <i>Comparative Austronesian Dictionary</i> and the Starostin and Peiros databases. The files do not say which form came from which source, so treat the tag as the uploader's statement. Where a concept appears more than once in a list, every form is shown, separated by a bar.</div>
 
   <footer>Data: The Rosetta Project, via the <a href="https://archive.org/search?query=swadesh+AND+collection%3Arosettaproject" target="_blank" rel="noopener">Internet Archive</a>. Background: <a href="https://rosettaproject.org/blog/02010/sep/20/Rosetta_Project_Swadesh_List_Data/" target="_blank" rel="noopener">Rosetta Project blog, 2010</a>. Consolidated 2026 by Arktos AI Lab. Data files and code: <a href="https://github.com/arktos-ai-lab/rosetta-swadesh" target="_blank" rel="noopener">github.com/arktos-ai-lab/rosetta-swadesh</a>.</footer>
 </div>
@@ -150,13 +172,43 @@ footer a { color: var(--accent); }
     $("tbody").innerHTML = rows.join("") || '<tr><td class="empty" colspan="4">No rows match this filter.</td></tr>';
   }
 
+  var S = DATA.S || [];   // [identifier, code, title, kind, licence, status, reason, uploaded]
+  function renderSummary() {
+    var kinds = [], cnt = {};
+    S.forEach(function (r) { var k = r[3]; if (kinds.indexOf(k) < 0) kinds.push(k); cnt[k] = cnt[k] || { i: 0, o: 0 }; cnt[k][r[5] === "included" ? "i" : "o"]++; });
+    var reasons = {};
+    S.forEach(function (r) { if (r[5] !== "included") reasons[r[6]] = (reasons[r[6]] || 0) + 1; });
+    var h = '<table><thead><tr><th>Kind</th><th>Included</th><th>Not included</th></tr></thead><tbody>';
+    kinds.forEach(function (k) { h += "<tr><td>" + esc(k) + '</td><td class="num">' + cnt[k].i + '</td><td class="num">' + cnt[k].o + "</td></tr>"; });
+    h += '</tbody></table><table style="margin-top:10px"><thead><tr><th>Why not included</th><th>Items</th></tr></thead><tbody>';
+    Object.keys(reasons).sort(function (a, b) { return reasons[b] - reasons[a]; }).forEach(function (k) { h += "<tr><td>" + esc(k) + '</td><td class="num">' + reasons[k] + "</td></tr>"; });
+    $("srcsummary").innerHTML = h + "</tbody></table>";
+  }
+  function renderSources() {
+    var q = $("srcq").value.trim().toLowerCase(), st = $("srcstatus").value, rows = [];
+    S.forEach(function (r) {
+      if (st && r[5] !== st) return;
+      if (q && (r[0] + " " + r[1] + " " + r[2] + " " + r[3] + " " + r[4] + " " + r[6]).toLowerCase().indexOf(q) < 0) return;
+      rows.push('<tr><td class="src"><a href="https://archive.org/details/' + encodeURIComponent(r[0]) + '" target="_blank" rel="noopener">' + esc(r[0].replace(/^rosettaproject_/, "")) + '</a></td><td class="code">' + esc(r[1]) + "</td><td>" + esc(r[2]) + "</td><td>" + esc(r[3]) + '</td><td class="code">' + esc(r[4]) + '</td><td><span class="pill ' + (r[5] === "included" ? "in" : "out") + '">' + esc(r[5]) + '</span><span class="why">' + esc(r[6]) + "</span></td></tr>");
+    });
+    $("srccount").textContent = rows.length + " of " + S.length + " items";
+    $("srcbody").innerHTML = rows.join("") || '<tr><td class="empty" colspan="6">No items match this filter.</td></tr>';
+  }
   function setMode(m) {
     state.mode = m;
-    $("tab-concept").setAttribute("aria-selected", m === "concept"); $("tab-lang").setAttribute("aria-selected", m === "language");
-    $("railq").value = ""; $("mainq").value = ""; save(); renderRail(); renderMain();
+    $("tab-concept").setAttribute("aria-selected", m === "concept"); $("tab-lang").setAttribute("aria-selected", m === "language"); $("tab-src").setAttribute("aria-selected", m === "sources");
+    $("words").hidden = m === "sources"; $("sources").hidden = m !== "sources";
+    save();
+    if (m === "sources") { renderSources(); return; }
+    $("railq").value = ""; $("mainq").value = ""; renderRail(); renderMain();
   }
   $("tab-concept").onclick = function () { setMode("concept"); };
   $("tab-lang").onclick = function () { setMode("language"); };
+  $("tab-src").onclick = function () { setMode("sources"); };
+  $("srcq").oninput = renderSources;
+  $("srcstatus").onchange = renderSources;
+  renderSummary();
+  if (location.hash === "#sources") state.mode = "sources";
   $("railq").oninput = renderRail;
   $("mainq").oninput = renderMain;
   $("raillist").onclick = function (e) {
@@ -169,6 +221,6 @@ footer a { color: var(--accent); }
     var a = e.target.closest("a.lang"); if (!a) return;
     state.li = +a.getAttribute("data-li"); setMode("language");
   };
-  setMode(state.mode === "language" ? "language" : "concept");
+  setMode(state.mode === "language" || state.mode === "sources" ? state.mode : "concept");
 })();
 </script>

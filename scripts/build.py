@@ -3,7 +3,7 @@
 Outputs in release/:
   swadesh_long.csv     one row per entry: lang_code, language, concept, entry_no, form, source_url, licence
   swadesh_wide.csv     one row per concept, one column per language (entries joined with " | ")
-  languages.csv        one row per list: code, name, entries, concepts, licence, source_url
+  languages.csv        one row per list: code, name, entries, concepts, licence, origin, source_url
   concepts.csv         one row per concept label, with the number of languages that have it
   swadesh.sqlite       the long, languages and concepts tables
   BUILD_REPORT.md      counts, lines that could not be parsed, lists with no licence tag (left out)
@@ -45,6 +45,7 @@ for jp in sorted(glob.glob(os.path.join(RAW, "*.json"))):
     if not lic:  # no licence tag: left out of the release (only openly licensed material is redistributed)
         nolic.append(ident)
         continue
+    origin = m.get("origin") or "rosettaproject collection"
     url = "https://archive.org/details/" + ident
     text = open(jp[:-5] + ".txt", encoding="utf-8", errors="replace").read()
     # Split on newlines only: str.splitlines() also splits on U+2028, which occurs inside one entry (tay "strike").
@@ -69,7 +70,7 @@ for jp in sorted(glob.glob(os.path.join(RAW, "*.json"))):
                      "form": form, "label_original": label, "identifier": ident, "source_url": url, "licence": lic})
         n += 1
     langs.append({"code": code, "name": name, "identifier": ident, "entries": n, "concepts": len(seen),
-                  "licence": lic, "source_url": url})
+                  "licence": lic, "origin": origin, "source_url": url})
 
 concept_langs = collections.defaultdict(set)
 for r in rows:
@@ -86,7 +87,7 @@ def write_csv(name, recs, fields):
 
 # Source URL and licence live in languages.csv (join on identifier); repeating them per row tripled the size.
 write_csv("swadesh_long.csv", rows, ["lang_code", "language", "concept", "entry_no", "form", "label_original", "identifier"])
-write_csv("languages.csv", langs, ["code", "name", "identifier", "entries", "concepts", "licence", "source_url"])
+write_csv("languages.csv", langs, ["code", "name", "identifier", "entries", "concepts", "licence", "origin", "source_url"])
 write_csv("concepts.csv", concepts, ["concept", "languages"])
 
 # Wide: column header is the identifier's language code; two lists for one code get a suffix.
@@ -110,10 +111,10 @@ db = os.path.join(OUT, "swadesh.sqlite")
 if os.path.exists(db):
     os.remove(db)
 con = sqlite3.connect(db)
-con.execute("CREATE TABLE languages (code TEXT, name TEXT, identifier TEXT PRIMARY KEY, entries INT, concepts INT, licence TEXT, source_url TEXT)")
+con.execute("CREATE TABLE languages (code TEXT, name TEXT, identifier TEXT PRIMARY KEY, entries INT, concepts INT, licence TEXT, origin TEXT, source_url TEXT)")
 con.execute("CREATE TABLE concepts (concept TEXT PRIMARY KEY, languages INT)")
 con.execute("CREATE TABLE entries (identifier TEXT REFERENCES languages(identifier), lang_code TEXT, concept TEXT, entry_no INT, form TEXT, label_original TEXT)")
-con.executemany("INSERT INTO languages VALUES (:code,:name,:identifier,:entries,:concepts,:licence,:source_url)", langs)
+con.executemany("INSERT INTO languages VALUES (:code,:name,:identifier,:entries,:concepts,:licence,:origin,:source_url)", langs)
 con.executemany("INSERT INTO concepts VALUES (:concept,:languages)", concepts)
 con.executemany("INSERT INTO entries VALUES (:identifier,:lang_code,:concept,:entry_no,:form,:label_original)", rows)
 con.execute("CREATE INDEX ix_e ON entries(lang_code, concept)")
