@@ -1,0 +1,174 @@
+<title>Rosetta Swadesh Lists</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;700&family=Gentium+Book+Plus:ital@0;1&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:wght@400;600&display=swap">
+<style>
+/* Layout: a word sheet. Concept rail on the left, the chosen concept's forms across every list on the right;
+   a second mode turns it around (one language, every concept). Stacks to one column on phones. */
+:root {
+  --bg: #f3f5f7; --panel: #ffffff; --ink: #1b2330; --muted: #5d6878; --line: #dde2e9;
+  --accent: #2f4b8f; --accent-soft: #e4eaf6; --warn: #8a5a00; --warn-soft: #fbf1dc;
+  --f-display: "Familjen Grotesk", "Segoe UI", system-ui, sans-serif;
+  --f-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --f-form: "Gentium Book Plus", "Charis SIL", "Doulos SIL", "Times New Roman", serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #12161d; --panel: #1a2029; --ink: #e5e9ef; --muted: #9aa5b4; --line: #2c3440;
+  --accent: #9db4ee; --accent-soft: #233150; --warn: #f0c46a; --warn-soft: #3a2f17; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #12161d; --panel: #1a2029; --ink: #e5e9ef; --muted: #9aa5b4; --line: #2c3440;
+  --accent: #9db4ee; --accent-soft: #233150; --warn: #f0c46a; --warn-soft: #3a2f17; color-scheme: dark }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.45;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 20px 40px; }
+.wrap { max-width: 1180px; margin: 0 auto; display: grid; gap: 18px; }
+header { display: grid; gap: 6px; }
+h1 { font-family: var(--f-display); font-weight: 700; font-size: clamp(1.6rem, 3.2vw, 2.2rem); margin: 0; letter-spacing: -0.01em; text-wrap: balance; }
+.sub { color: var(--muted); margin: 0; max-width: 70ch; }
+.stats { display: flex; flex-wrap: wrap; gap: 8px 18px; font-family: var(--f-mono); font-size: 0.82rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.stats b { color: var(--ink); font-weight: 500; }
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; }
+.tab { font: 600 0.92rem var(--f-body); padding: 7px 14px; border-radius: 999px; border: 1px solid var(--line); background: var(--panel); color: var(--ink); cursor: pointer; }
+.tab[aria-selected="true"] { background: var(--accent); border-color: var(--accent); color: var(--panel); }
+.tab:focus-visible, input:focus-visible, .rail button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.grid { display: grid; grid-template-columns: 280px minmax(0, 1fr); gap: 18px; align-items: start; }
+@media (max-width: 760px) { .grid { grid-template-columns: minmax(0, 1fr); } .rail ul { max-height: 240px; } }
+.rail { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; display: grid; min-width: 0; }
+.rail .head { padding: 10px; border-bottom: 1px solid var(--line); display: grid; gap: 6px; }
+.label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 600; }
+input[type="search"] { width: 100%; box-sizing: border-box; font: 0.95rem var(--f-body); padding: 7px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--ink); }
+.rail ul { list-style: none; margin: 0; padding: 4px; max-height: 70vh; overflow: auto; }
+.rail button { width: 100%; display: flex; justify-content: space-between; gap: 8px; text-align: left; font: 0.93rem var(--f-body); color: var(--ink); background: none; border: 0; border-radius: 6px; padding: 5px 8px; cursor: pointer; }
+.rail button:hover { background: var(--accent-soft); }
+.rail button[aria-current="true"] { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.rail .n { font-family: var(--f-mono); font-size: 0.78rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.main { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; min-width: 0; display: grid; }
+.main .head { padding: 14px 16px; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: end; justify-content: space-between; }
+.main h2 { font-family: var(--f-display); font-weight: 700; font-size: 1.5rem; margin: 0; }
+.main h2 small { font: 400 0.9rem var(--f-body); color: var(--muted); margin-left: 8px; }
+.main .head input { max-width: 260px; }
+.tablebox { overflow-x: auto; max-height: 72vh; overflow-y: auto; }
+table { width: 100%; border-collapse: collapse; }
+th { position: sticky; top: 0; background: var(--panel); text-align: left; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 600; padding: 8px 12px; border-bottom: 1px solid var(--line); }
+td { padding: 6px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+td.code { font-family: var(--f-mono); font-size: 0.82rem; color: var(--muted); white-space: nowrap; }
+td.form { font-family: var(--f-form); font-size: 1.08rem; }
+td.form .sep { color: var(--muted); padding: 0 4px; }
+td.src a { color: var(--accent); font-size: 0.85rem; white-space: nowrap; }
+td a.lang { color: var(--ink); text-decoration: none; border-bottom: 1px dotted var(--muted); cursor: pointer; }
+.empty { padding: 24px 16px; color: var(--muted); }
+.note { background: var(--warn-soft); color: var(--ink); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; font-size: 0.92rem; max-width: 90ch; }
+.note b { color: var(--warn); }
+footer { color: var(--muted); font-size: 0.85rem; }
+footer a { color: var(--accent); }
+@media (prefers-reduced-motion: no-preference) { .rail button, .tab { transition: background-color .12s; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Rosetta Swadesh Lists</h1>
+    <p class="sub">Basic vocabulary from the Rosetta Project's Swadesh lists on the Internet Archive, brought together in one place. Pick a concept to see it across every list, or a language to see its whole list.</p>
+    <div class="stats"><span><b>__NLANG__</b> lists</span><span><b>__NCON__</b> concept labels</span><span>source: archive.org, collection <b>rosettaproject</b></span><span>licence tag: CC BY 3.0 (see note)</span></div>
+  </header>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" id="tab-concept" role="tab" aria-selected="true">By concept</button>
+    <button class="tab" id="tab-lang" role="tab" aria-selected="false">By language</button>
+  </div>
+
+  <div class="grid">
+    <nav class="rail" aria-label="List">
+      <div class="head">
+        <label class="label" for="railq" id="raillabel">Concepts</label>
+        <input type="search" id="railq" placeholder="Filter concepts" autocomplete="off">
+      </div>
+      <ul id="raillist"></ul>
+    </nav>
+    <section class="main" aria-live="polite">
+      <div class="head">
+        <h2 id="title"></h2>
+        <input type="search" id="mainq" placeholder="Filter rows" autocomplete="off" aria-label="Filter rows">
+      </div>
+      <div class="tablebox"><table><thead id="thead"></thead><tbody id="tbody"></tbody></table></div>
+    </section>
+  </div>
+
+  <div class="note"><b>About the licence.</b> The Internet Archive items carry a CC BY 3.0 tag from the Rosetta Project (the 10 items without a tag are left out). The Rosetta Project's 2010 announcement says the lists combine original work by Tim Usher and Paul Whitehouse with outside resources, including Tryon's <i>Comparative Austronesian Dictionary</i> and the Starostin and Peiros databases. The files do not say which form came from which source, so treat the tag as the uploader's statement. Where a concept appears more than once in a list, every form is shown, separated by a bar.</div>
+
+  <footer>Data: The Rosetta Project, via the <a href="https://archive.org/search?query=swadesh+AND+collection%3Arosettaproject" target="_blank" rel="noopener">Internet Archive</a>. Background: <a href="https://rosettaproject.org/blog/02010/sep/20/Rosetta_Project_Swadesh_List_Data/" target="_blank" rel="noopener">Rosetta Project blog, 2010</a>. Consolidated 2026 by Arktos AI Lab. Data files and code: <a href="https://github.com/arktos-ai-lab/rosetta-swadesh" target="_blank" rel="noopener">github.com/arktos-ai-lab/rosetta-swadesh</a>.</footer>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function () {
+  var DATA = JSON.parse(document.getElementById("data").textContent);
+  var L = DATA.L, C = DATA.C, D = DATA.D;
+  var byLang = L.map(function () { return []; });
+  D.forEach(function (rows, ci) { rows.forEach(function (r) { byLang[r[0]].push([ci, r[1]]); }); });
+  var langOrder = L.map(function (_, i) { return i; }).sort(function (a, b) { return L[a][1].localeCompare(L[b][1]); });
+  var state = { mode: "concept", ci: Math.max(0, C.indexOf("water")), li: langOrder[0] };
+  try { var s = JSON.parse(localStorage.getItem("swadesh-view") || "null"); if (s && typeof s.ci === "number") state = s; } catch (e) {}
+  var $ = function (id) { return document.getElementById(id); };
+
+  function esc(t) { return String(t).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+  function forms(t) { return t.split(" | ").map(esc).join('<span class="sep">|</span>'); }
+  function save() { try { localStorage.setItem("swadesh-view", JSON.stringify(state)); } catch (e) {} }
+
+  function renderRail() {
+    var q = $("railq").value.trim().toLowerCase(), html = [];
+    if (state.mode === "concept") {
+      $("raillabel").textContent = "Concepts"; $("railq").placeholder = "Filter concepts";
+      C.forEach(function (c, i) { if (!q || c.indexOf(q) >= 0) html.push('<li><button data-i="' + i + '"' + (i === state.ci ? ' aria-current="true"' : "") + '><span>' + esc(c) + '</span><span class="n">' + D[i].length + "</span></button></li>"); });
+    } else {
+      $("raillabel").textContent = "Languages"; $("railq").placeholder = "Filter by name or code";
+      langOrder.forEach(function (i) { var l = L[i]; if (!q || l[1].toLowerCase().indexOf(q) >= 0 || l[0].toLowerCase() === q) html.push('<li><button data-i="' + i + '"' + (i === state.li ? ' aria-current="true"' : "") + '><span>' + esc(l[1]) + '</span><span class="n">' + esc(l[0]) + "</span></button></li>"); });
+    }
+    $("raillist").innerHTML = html.join("") || '<li class="empty">No match.</li>';
+  }
+
+  function renderMain() {
+    var q = $("mainq").value.trim().toLowerCase(), rows = [];
+    if (state.mode === "concept") {
+      var list = D[state.ci];
+      $("title").innerHTML = esc(C[state.ci]) + "<small>" + list.length + " of " + L.length + " lists</small>";
+      $("thead").innerHTML = "<tr><th>Code</th><th>Language</th><th>Form</th><th>Source</th></tr>";
+      list.slice().sort(function (a, b) { return L[a[0]][1].localeCompare(L[b[0]][1]); }).forEach(function (r) {
+        var l = L[r[0]];
+        if (q && l[1].toLowerCase().indexOf(q) < 0 && l[0].toLowerCase().indexOf(q) < 0 && r[1].toLowerCase().indexOf(q) < 0) return;
+        rows.push('<tr><td class="code">' + esc(l[0]) + '</td><td><a class="lang" data-li="' + r[0] + '">' + esc(l[1]) + '</a></td><td class="form">' + forms(r[1]) + '</td><td class="src"><a href="https://archive.org/details/' + encodeURIComponent(l[2]) + '" target="_blank" rel="noopener">archive.org</a></td></tr>');
+      });
+    } else {
+      var l = L[state.li], items = byLang[state.li];
+      $("title").innerHTML = esc(l[1]) + "<small>" + esc(l[0]) + " · " + items.length + ' concepts · <a href="https://archive.org/details/' + encodeURIComponent(l[2]) + '" target="_blank" rel="noopener">source</a></small>';
+      $("thead").innerHTML = "<tr><th>Concept</th><th>Form</th></tr>";
+      items.slice().sort(function (a, b) { return C[a[0]].localeCompare(C[b[0]]); }).forEach(function (r) {
+        if (q && C[r[0]].indexOf(q) < 0 && r[1].toLowerCase().indexOf(q) < 0) return;
+        rows.push('<tr><td>' + esc(C[r[0]]) + '</td><td class="form">' + forms(r[1]) + "</td></tr>");
+      });
+    }
+    $("tbody").innerHTML = rows.join("") || '<tr><td class="empty" colspan="4">No rows match this filter.</td></tr>';
+  }
+
+  function setMode(m) {
+    state.mode = m;
+    $("tab-concept").setAttribute("aria-selected", m === "concept"); $("tab-lang").setAttribute("aria-selected", m === "language");
+    $("railq").value = ""; $("mainq").value = ""; save(); renderRail(); renderMain();
+  }
+  $("tab-concept").onclick = function () { setMode("concept"); };
+  $("tab-lang").onclick = function () { setMode("language"); };
+  $("railq").oninput = renderRail;
+  $("mainq").oninput = renderMain;
+  $("raillist").onclick = function (e) {
+    var b = e.target.closest("button"); if (!b) return;
+    var i = +b.getAttribute("data-i");
+    if (state.mode === "concept") state.ci = i; else state.li = i;
+    $("mainq").value = ""; save(); renderRail(); renderMain();
+  };
+  $("tbody").onclick = function (e) {
+    var a = e.target.closest("a.lang"); if (!a) return;
+    state.li = +a.getAttribute("data-li"); setMode("language");
+  };
+  setMode(state.mode === "language" ? "language" : "concept");
+})();
+</script>
