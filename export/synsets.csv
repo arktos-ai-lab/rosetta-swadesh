@@ -1,0 +1,291 @@
+synset_id,concept,gloss_note,n_lists,concepticon_id,concepticon_gloss
+swadesh_eye,eye,,1155,1248,EYE
+swadesh_fire,fire,,1152,221,FIRE
+swadesh_head,head,,1138,1256,HEAD
+swadesh_i,i,,1138,1209,I
+swadesh_dog,dog,,1131,2009,DOG
+swadesh_ear,ear,,1129,1247,EAR
+swadesh_sun,sun,,1129,1343,SUN
+swadesh_moon,moon,,1112,1313,MOON
+swadesh_thou,thou,2nd person singular,1112,1215,THOU
+swadesh_tongue,tongue,,1102,1205,TONGUE
+swadesh_man,man,,1099,1554,MAN
+swadesh_mouth,mouth,,1097,674,MOUTH
+swadesh_water,water,,1097,948,WATER
+swadesh_tooth,tooth,,1093,1380,TOOTH
+swadesh_bone,bone,,1091,1394,BONE
+swadesh_woman,woman,,1089,962,WOMAN
+swadesh_tree,tree,,1088,906,TREE
+swadesh_two,two,,1086,1498,TWO
+swadesh_blood,blood,,1069,946,BLOOD
+swadesh_smoke,smoke,,1065,778,SMOKE (EXHAUST)
+swadesh_skin,skin,,1063,763,SKIN
+swadesh_bird,bird,,1059,937,BIRD
+swadesh_one,one,,1059,1493,ONE
+swadesh_rain,rain,,1051,2108,RAINING OR RAIN
+swadesh_hair,hair,,1048,1040,HAIR
+swadesh_belly,belly,,1044,1251,BELLY
+swadesh_breast,breast,,1044,1402,BREAST
+swadesh_star,star,,1035,1430,STAR
+swadesh_come,come,,1025,1446,COME
+swadesh_good,good,,1021,1035,GOOD
+swadesh_black,black,,1020,163,BLACK
+swadesh_eat,eat,,1012,1336,EAT
+swadesh_road,road,,1008,667,ROAD
+swadesh_name,name,,1003,1405,NAME
+swadesh_egg,egg,,1001,744,EGG
+swadesh_stone,stone,,1001,857,STONE
+swadesh_white,white,,995,1335,WHITE
+swadesh_ashes,ashes,,991,646,ASH
+swadesh_louse,louse,,988,1392,LOUSE
+swadesh_give,give,,986,1447,GIVE
+swadesh_night,night,,983,1233,NIGHT
+swadesh_small,small,,982,1246,SMALL
+swadesh_sit,sit,,980,1416,SIT
+swadesh_sleep,sleep,,980,1585,SLEEP
+swadesh_knee,knee,,969,1371,KNEE
+swadesh_fish,fish,,967,227,FISH
+swadesh_long,long,,967,1203,LONG
+swadesh_say,say,,962,1458,SAY
+swadesh_earth,earth,,957,1228,EARTH (SOIL)
+swadesh_see,see,,955,1409,SEE
+swadesh_walk,walk,,955,1443,WALK
+swadesh_neck,neck,,954,1333,NECK
+swadesh_red,red,,952,156,RED
+swadesh_big,big,big,949,1202,BIG
+swadesh_sand,sand,,948,671,SAND
+swadesh_new,new,,947,1231,NEW
+swadesh_stand,stand,,943,1442,STAND
+swadesh_meat,meat,,942,634,MEAT
+swadesh_mountain,mountain,,942,639,MOUNTAIN
+swadesh_hand,hand,,941,1277,HAND
+swadesh_hear,hear,,930,1408,HEAR
+swadesh_cloud,cloud,,926,1489,CLOUD
+swadesh_foot,foot,,926,1301,FOOT
+swadesh_cold,cold,,919,1287,COLD
+swadesh_tail,tail,,918,1220,TAIL
+swadesh_die,die,,917,1494,DIE
+swadesh_leaf,leaf,,916,628,LEAF
+swadesh_warm,warm,,908,1232,WARM
+swadesh_what,what,,907,1236,WHAT
+swadesh_who,who,,904,1235,WHO
+swadesh_father,father,,902,1217,FATHER
+swadesh_we,we,1st person plural; lists that distinguish use 'we (incl.)' / 'we (excl.)' instead,901,1212,WE
+swadesh_root,root,,898,670,ROOT
+swadesh_many,many,,879,1198,MANY
+swadesh_snake,snake,,877,730,SNAKE
+swadesh_he_she,he/she,3rd person singular,862,262,HE OR SHE OR IT
+swadesh_fat_n,fat (n.),"fat, grease (noun)",859,323,FAT (ORGANIC SUBSTANCE)
+swadesh_burn,burn,,856,2102,BURN
+swadesh_leg,leg,,852,1297,LEG
+swadesh_mother,mother,,850,1216,MOTHER
+swadesh_wind,wind,,847,960,WIND
+swadesh_dry,dry,,845,1398,DRY
+swadesh_bite,bite,,834,1403,BITE
+swadesh_heart,heart,,834,1223,HEART
+swadesh_drink,drink,,829,1401,DRINK
+swadesh_kill,kill,,822,1417,KILL
+swadesh_all,all,,791,98,ALL
+swadesh_liver,liver,,786,1224,LIVER
+swadesh_full,full,,779,1429,FULL
+swadesh_they,they,3rd person plural,773,817,THEY
+swadesh_child,child,,762,2099,CHILD
+swadesh_nose,nose,,757,1221,NOSE
+swadesh_this,this,,747,1214,THIS
+swadesh_bark,bark,"bark of a tree (noun), not a dog's bark",737,1204,BARK
+swadesh_fly_v,fly (v.),to fly (verb),737,1441,FLY (MOVE THROUGH AIR)
+swadesh_three,three,,729,492,THREE
+swadesh_bad,bad,,725,1292,BAD
+swadesh_back,back,,725,1291,BACK
+swadesh_fingernail,fingernail,,712,1258,FINGERNAIL
+swadesh_not,not,,710,1240,NOT
+swadesh_know,know,,708,1410,KNOW (SOMETHING)
+swadesh_seed,seed,,708,714,SEED
+swadesh_old,old,,700,1229,OLD
+swadesh_arm,arm,,693,1673,ARM
+swadesh_short,short,,682,1645,SHORT
+swadesh_green,green,,672,1425,GREEN
+swadesh_hit,hit,,671,1433,HIT
+swadesh_yellow,yellow,,669,1424,YELLOW
+swadesh_that,that,,664,78,THAT
+swadesh_person,person,,663,683,PERSON
+swadesh_spit,spit,,652,1440,SPIT
+swadesh_wing,wing,,652,1257,WING
+swadesh_house,house,,648,1252,HOUSE
+swadesh_heavy,heavy,,642,1210,HEAVY
+swadesh_laugh,laugh,,636,1355,LAUGH
+swadesh_fall,fall,,634,1280,FALL
+swadesh_grass,grass,,633,606,GRASS
+swadesh_lie,lie,"lie down / lie on one's side (verb), not tell a lie",626,1411,LIE (REST)
+swadesh_swim,swim,,625,1439,SWIM
+swadesh_rope,rope,,623,1218,ROPE
+swadesh_cut,cut,,611,1432,CUT
+swadesh_feather,feather,,608,1201,FEATHER
+swadesh_sky,sky,,595,1732,SKY
+swadesh_fly_n,fly (n.),the insect (noun); the automatic match gave FLY (MOVE THROUGH AIR); the noun is the insect,589,1504,FLY (INSECT)
+swadesh_brother,brother,,586,1262,BROTHER
+swadesh_day,day,"Swadesh 'day' is daytime, not 24 hours",585,1225,DAY (NOT NIGHT)
+swadesh_wet,wet,,582,1726,WET
+swadesh_dig,dig,,571,1418,DIG
+swadesh_near,near,,571,1942,NEAR
+swadesh_four,four,,567,1500,FOUR
+swadesh_you,you,"2nd person: singular in some lists, plural in others (where 'thou' is present it is plural)",566,1213,YOU
+swadesh_far,far,,566,1406,FAR
+swadesh_river,river,,547,666,RIVER
+swadesh_sing,sing,,544,1261,SING
+swadesh_sister,sister,,540,1263,SISTER
+swadesh_shoulder,shoulder,,539,1482,SHOULDER
+swadesh_tie,tie,,533,1917,TIE
+swadesh_fear,fear,,532,1419,FEAR (BE AFRAID)
+swadesh_weep,weep,,532,1839,CRY
+swadesh_five,five,,530,493,FIVE
+swadesh_salt,salt,,526,1274,SALT
+swadesh_fruit,fruit,,525,1507,FRUIT
+swadesh_finger,finger,,524,1303,FINGER
+swadesh_forest,forest,forest,523,420,FOREST
+swadesh_wood,wood,wood (material),518,1803,WOOD
+swadesh_where,where,,517,1237,WHERE
+swadesh_throw,throw,,517,1456,THROW
+swadesh_wash,wash,,505,1453,WASH
+swadesh_rat,rat,,495,1490,RAT
+swadesh_tomorrow,tomorrow,,494,1329,TOMORROW
+swadesh_blow,blow,,490,175,BLOW (OF WIND)
+swadesh_horn,horn,,485,1393,HORN (ANATOMY)
+swadesh_elbow,elbow,,483,981,ELBOW
+swadesh_left,left,left side (direction),483,244,LEFT
+swadesh_right,right,"right side (direction), not 'correct'",476,1019,RIGHT
+swadesh_yesterday,yesterday,,475,1174,YESTERDAY
+swadesh_round,round,,474,1395,ROUND
+swadesh_take,take,,473,1749,TAKE
+swadesh_wife,wife,,468,1199,WIFE
+swadesh_straight,straight,,465,1404,STRAIGHT
+swadesh_mosquito,mosquito,,465,1509,MOSQUITO
+swadesh_pull,pull,,464,1455,PULL
+swadesh_sea,sea,,458,1474,SEA
+swadesh_vomit,vomit,,458,1278,VOMIT
+swadesh_forehead,forehead,,456,123,FOREHEAD
+swadesh_husband,husband,,454,1200,HUSBAND
+swadesh_sharp,sharp,,453,1396,SHARP
+swadesh_here,here,,452,136,HERE
+swadesh_thin,thin,,447,2308,THIN
+swadesh_chin,chin,,445,1510,CHIN
+swadesh_boy,boy,,436,1366,BOY
+swadesh_chest,chest,,436,1592,CHEST
+swadesh_navel,navel,,436,1838,NAVEL
+swadesh_guts,guts,,434,1334,GUTS
+swadesh_there,there,,433,1937,THERE
+swadesh_how,how,,421,1239,HOW
+swadesh_dirty,dirty,,420,1230,DIRTY
+swadesh_think,think,,419,2271,THINK
+swadesh_thigh,thigh,,418,471,UPPER LEG (THIGH)
+swadesh_smell,smell,,417,2124,SMELL
+swadesh_girl,girl,,415,1646,GIRL
+swadesh_when,when,,414,1238,WHEN
+swadesh_push,push,,413,1452,PUSH
+swadesh_emu,emu,,412,2817,EMU
+swadesh_turn,turn,to turn (verb),410,1588,TURN
+swadesh_fog,fog,,404,249,FOG
+swadesh_flower,flower,,402,239,FLOWER
+swadesh_crocodile,crocodile,,399,1857,CROCODILE
+swadesh_live,live,,389,1422,BE ALIVE
+swadesh_claw,claw,,387,72,CLAW
+swadesh_few,few,,387,1242,FEW
+swadesh_split,split,,386,1437,SPLIT
+swadesh_morning,morning,,382,1339,MORNING
+swadesh_scratch,scratch,,382,1436,SCRATCH
+swadesh_play,play,to play (verb),381,1413,PLAY
+swadesh_hold,hold,,377,1448,HOLD
+swadesh_face,face,,375,1560,FACE
+swadesh_butterfly,butterfly,,364,1791,BUTTERFLY
+swadesh_breathe,breathe,,358,1407,BREATHE
+swadesh_rotten,rotten,,357,1728,ROTTEN
+swadesh_throat,throat,,350,1346,THROAT
+swadesh_thunder,thunder,,350,1150,THUNDER
+swadesh_fight,fight,,346,1423,FIGHT
+swadesh_arrow,arrow,,346,977,ARROW
+swadesh_in,in,,346,1460,IN
+swadesh_dust,dust,,333,2,DUST
+swadesh_lake,lake,,333,624,LAKE
+swadesh_lip,lip,,330,478,LIP
+swadesh_suck,suck,,330,1421,SUCK
+swadesh_lightning,lightning,,325,1654,LIGHTNING
+swadesh_vagina,vagina,,324,1836,VAGINA
+swadesh_calf,calf,"lists with this label are body-part lists (calf of the leg), not young cattle",320,498,CALF OF LEG
+swadesh_we_incl,we (incl.),1st person plural inclusive,317,1131,WE (INCLUSIVE)
+swadesh_hole,hole,,316,1667,HOLE
+swadesh_year,year,,315,1226,YEAR
+swadesh_wallaby,wallaby,,313,165,WALLABY
+swadesh_other,other,,309,197,OTHER
+swadesh_you_two,you two,,307,2111,YOU TWO
+swadesh_stick,stick,stick (noun),307,1295,STICK
+swadesh_worm,worm,,307,1219,WORM
+swadesh_ripe,ripe,,303,178,RIPE
+swadesh_rub,rub,,303,1449,RUB
+swadesh_animal,animal,,297,619,ANIMAL
+swadesh_sew,sew,,296,1457,SEW
+swadesh_swell,swell,,296,1573,SWELL
+swadesh_count,count,to count (verb),293,1420,COUNT
+swadesh_thick,thick,,293,1244,THICK
+swadesh_they_two,they two,,292,2635,THEY TWO
+swadesh_nape,nape,,290,1347,NAPE (OF NECK)
+swadesh_and,and,,286,1577,AND
+swadesh_branch,branch,,285,1531,BRANCH
+swadesh_today,today,,281,1283,TODAY
+swadesh_hunt,hunt,,279,1435,HUNT
+swadesh_cassowary,cassowary,,275,466,CASSOWARY
+swadesh_cheek,cheek,,271,1730,CHEEK
+swadesh_narrow,narrow,,269,1267,NARROW
+swadesh_sweet,sweet,,263,717,SWEET
+swadesh_wide,wide,,262,1243,WIDE
+swadesh_yes,yes,,262,1268,YES
+swadesh_we_two_incl,we two (incl.),1st person dual inclusive,248,2637,WE TWO (INCLUSIVE)
+swadesh_smooth,smooth,,248,1234,SMOOTH
+swadesh_correct,correct,"correct, right (adjective of truth)",246,1725,CORRECT (RIGHT)
+swadesh_flow,flow,,237,2003,FLOW
+swadesh_we_excl,we (excl.),1st person plural exclusive,230,1130,WE (EXCLUSIVE)
+swadesh_excrement,excrement,,212,675,FAECES (EXCREMENT)
+swadesh_dark,dark,,212,706,DARK
+swadesh_son,son,,211,1620,SON
+swadesh_daughter,daughter,,201,1357,DAUGHTER
+swadesh_float,float,,194,1574,FLOAT
+swadesh_ankle,ankle,,192,803,ANKLE
+swadesh_we_two,we two,1st person dual,189,2634,WE TWO
+swadesh_bitter,bitter,,188,887,BITTER
+swadesh_if,if,,186,1459,IF
+swadesh_because,because,,183,1157,BECAUSE
+swadesh_squeeze,squeeze,,180,1414,SQUEEZE
+swadesh_with,with,,167,1340,WITH
+swadesh_kangaroo,kangaroo,,166,164,KANGAROO
+swadesh_ice,ice,,156,617,ICE
+swadesh_wipe,wipe,,154,1454,WIPE
+swadesh_stab,stab,,151,1434,STAB
+swadesh_thorn,thorn,,151,124,THORN
+swadesh_dance,dance,,149,1879,DANCE
+swadesh_some,some,,141,1241,SOME
+swadesh_at,at,,134,1461,AT
+swadesh_sour,sour,,128,1906,SOUR
+swadesh_we_two_excl,we two (excl.),1st person dual exclusive,123,2636,WE TWO (EXCLUSIVE)
+swadesh_snow,snow,,119,784,SNOW
+swadesh_jaw,jaw,,115,798,JAW
+swadesh_dull,dull,,108,1397,DULL
+swadesh_unripe,unripe,,87,1958,UNRIPE
+swadesh_large,large,unmerged label; close to 'big'; same concept set as 'big',69,1202,BIG
+swadesh_woomera,woomera,Australian spear-thrower,69,2677,SPEARTHROWER
+swadesh_which,which,,68,727,WHICH
+swadesh_why,why,,68,1270,WHY
+swadesh_empty,empty,,67,1624,EMPTY
+swadesh_wrong,wrong,,67,1390,WRONG
+swadesh_heel,heel,,64,980,HEEL
+swadesh_freeze,freeze,,60,1431,FREEZE
+swadesh_frog,frog,,59,503,FROG
+swadesh_wrist,wrist,,21,799,WRIST
+swadesh_fat,fat,"unmerged label: adjective in some lists (e.g. Gaelic), noun in others; check per list; unmerged label: adjective in some lists, noun in others; no single concept set",15,,
+swadesh_down,down,,3,1326,DOWN
+swadesh_up,up,,3,1591,UP
+swadesh_woods,woods,woods (area); close to 'forest'; same concept set as 'forest',3,420,FOREST
+swadesh_pierce,pierce,,2,398,PIERCE
+swadesh_grease,grease,"grease, fat (noun); close to 'fat (n.)'; no Concepticon set for grease; close to FAT (ORGANIC SUBSTANCE) 323",2,,
+swadesh_female,female,,1,1551,FEMALE
+swadesh_male,male,,1,1553,MALE
+swadesh_fullness,fullness,single list (car); no matching concept set,1,,
+swadesh_heat,heat,,1,612,HEAT
