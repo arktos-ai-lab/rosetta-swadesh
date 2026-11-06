@@ -20,7 +20,7 @@ for browsing by concept or by language. Intended use includes seed vocabulary fo
 | `release/swadesh.sqlite` | tables `entries`, `languages`, `concepts` |
 | `release/scanned_texts/` | OCR text of 10 scanned vocabularies and grammars (1849-1909) that passed a copyright check; `index.csv` gives year, author's death year and country |
 | `release/BUILD_REPORT.md` | counts, skipped lines, left-out items |
-| `export/` | a lexicon-ready view for wordnet-style databases: `synsets.csv` (290 concepts with Concepticon IDs), `lemmas.csv` (296,956 lemmas), `languages.csv` (lists with Glottocodes); see `export/README.md` |
+| `export/` | a lexicon-ready view for wordnet-style databases: `synsets.csv` (290 concepts with Concepticon IDs), `lemmas.csv` (296,956 lemmas), `languages.csv` (lists with Glottocodes), and all three as `lexicon.sqlite`; see `export/README.md` |
 | `language_code_check.csv`, `concepticon_map.csv` | language codes checked against ISO 639-3 and Glottolog; concept labels mapped to Concepticon 3.2.0 |
 | `docs/index.html` | the browsing page (served by GitHub Pages) |
 | `scripts/` | `harvest.py` (download the collection), `community.py` (add the openly licensed volunteer uploads), `build.py` (parse and write `release/`), `inventory.py` (write `release/inventory.csv`), `scans.py` (OCR texts), `make_viewer.py` (write `docs/index.html`), `check_codes.py` (language code check), `map_concepticon.py` (Concepticon mapping), `export_lexicon.py` (write `export/`) |

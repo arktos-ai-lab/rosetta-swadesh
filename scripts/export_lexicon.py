@@ -133,9 +133,40 @@ def main():
             w.writerow([ident, L["code"], L["name"], C.get("glottocode", ""), C.get("glottolog_name", ""),
                         C.get("macroarea", ""), C.get("status", ""), C.get("note", ""), nl.get(ident, [0])[0],
                         len(nl.get(ident, [0, ()])[1]), L.get("licence", ""), L.get("source_url", "")])
+    write_sqlite()
     total = db.execute("select count(*) from entries").fetchone()[0]
     print(f"entries {total} -> lemmas {len(lemmas)}; split rows {sum(v['split_from_slash'] for v in lemmas.values())}; "
           f"synsets {len(concepts)}; languages {len(langs)}; out {OUT}")
+
+
+def write_sqlite():
+    """The three CSVs as one SQLite file with keys and indexes (licence and source per list live in languages)."""
+    path = os.path.join(OUT, "lexicon.sqlite")
+    if os.path.exists(path):
+        os.remove(path)
+    db = sqlite3.connect(path)
+    db.executescript("""
+CREATE TABLE synsets (synset_id TEXT PRIMARY KEY, concept TEXT, gloss_note TEXT, n_lists INT, concepticon_id INT,
+                      concepticon_gloss TEXT);
+CREATE TABLE languages (identifier TEXT PRIMARY KEY, lang_code TEXT, language TEXT, glottocode TEXT, glottolog_name TEXT,
+                        macroarea TEXT, code_status TEXT, code_note TEXT, n_lemmas INT, n_synsets INT, licence TEXT,
+                        source_url TEXT);
+CREATE TABLE lemmas (synset_id TEXT REFERENCES synsets(synset_id), lemma TEXT, lang_code TEXT, glottocode TEXT,
+                     identifier TEXT REFERENCES languages(identifier), form_original TEXT, entry_nos TEXT,
+                     split_from_slash INT, flags TEXT);
+""")
+    for table, n in (("synsets", 6), ("languages", 12)):
+        rows = list(csv.reader(open(os.path.join(OUT, table + ".csv"), encoding="utf8")))[1:]
+        db.executemany(f"INSERT INTO {table} VALUES ({','.join('?' * n)})", [[x or None for x in r] for r in rows])
+    rd = csv.DictReader(open(os.path.join(OUT, "lemmas.csv"), encoding="utf8"))
+    db.executemany("INSERT INTO lemmas VALUES (?,?,?,?,?,?,?,?,?)",
+                   ((r["synset_id"], r["lemma"], r["lang_code"], r["glottocode"] or None, r["identifier"],
+                     r["form_original"], r["entry_nos"], r["split_from_slash"] == "True", r["flags"] or None) for r in rd))
+    db.executescript("CREATE INDEX ix_lemmas_synset ON lemmas(synset_id); CREATE INDEX ix_lemmas_list ON lemmas(identifier);"
+                     "CREATE INDEX ix_lemmas_code ON lemmas(lang_code);")
+    db.commit()
+    db.execute("VACUUM")
+    db.close()
 
 
 if __name__ == "__main__":

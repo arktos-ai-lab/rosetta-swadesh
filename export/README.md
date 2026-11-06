@@ -14,8 +14,16 @@ mapping in `concepticon_map.csv`, made by `scripts/map_concepticon.py`); Glottoc
 | `synsets.csv` | 290 | concept |
 | `lemmas.csv` | 296,956 | distinct lemma per (synset, list) |
 | `languages.csv` | 1,232 | list (a language or variety; some languages have several lists) |
+| `lexicon.sqlite` | | the same three tables in one SQLite file, with primary/foreign keys and indexes on `lemmas` (`licence` and `source_url` are in `languages` only) |
 
 Join keys: `lemmas.synset_id` → `synsets.synset_id`; `lemmas.identifier` → `languages.identifier`.
+
+```sql
+-- 'water' in every list, with language and Glottocode
+SELECT g.language, g.glottocode, l.lemma
+FROM lemmas l JOIN languages g USING (identifier)
+WHERE l.synset_id = 'swadesh_water';
+```
 
 ## synsets.csv
 
